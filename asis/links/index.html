@@ -1,0 +1,32 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html>
+    <head>
+        <title>Links</title>
+    </head>
+    <body>
+        <h2>Parsing Links isn't always straightforward</h2>
+
+        <h3><a href='base'>Base Tag</a></h3>
+        <p>The &lt;base&gt; tag allows the page to specify another url to use
+            as the base of relative urls on the page, rather than the url of
+            the page itself</p>
+
+        <h3><a href='canonical'>Canonical Tag</a></h3>
+        <p>The &lt;canonical&gt; tag specifies the canonical url for the
+            page that's been visited</p>
+
+        <h3><a href='schemes'>Schemes</a></h3>
+        <p>The schemes of links aren't limited to just http, https, etc. --
+            they can be things like 'mailto', 'tel', etc.</p>
+
+        <h3><a href='data-uri'>Data URI</a></h3>
+        <p>You can actually encode data (like images) into so-called data URI's
+            and they can be quite large in practice.</p>
+
+        <h3><a href='bad-uri'>Bad URI</a></h3>
+        <p>We've sometimes found URIs that are kind of problematic. These
+            examples come from the wild</p>
+    </body>
+</html>

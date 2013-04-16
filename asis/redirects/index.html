@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html>
+    <head>
+        <title>Redirects</title>
+    </head>
+    <body>
+        <h2>Redirects happen</h2>
+
+        <h3><a href='relative'>Relative Redirects</a></h3>
+        <p>The `Location` header is not always an absolute URL, and should be
+            considered relative to the path of the page.</p>
+
+        <h3><a href='missing-location'>Missing Location</a></h3>
+        <p>The `Location` header is not always present. It is unclear what is
+            to be done in these cases</p>
+    </body>
+</html>

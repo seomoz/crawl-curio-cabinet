@@ -1,0 +1,16 @@
+HTTP/1.0 200 OK
+Content-Type: text/html
+
+<html>
+    <head>
+        <title>Schemes</title>
+    </head>
+    <body>
+        <a href='tel:12345'>
+            I'm a telephone link!</a> <br/>
+        <a href='mailto:me@example.com'>
+            I'm a mailto link!</a> <br/>
+        <a href='http://foo.com/'>
+            I'm a regular link</a>
+    </body>
+</html>

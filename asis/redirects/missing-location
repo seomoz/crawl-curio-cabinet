@@ -1,0 +1,11 @@
+HTTP/1.0 301 Moved Permanently
+Content-Type: text/html
+
+<html>
+    <head>
+        <title>Basic Test Page</title>
+    </head>
+    <body>
+        <p>This page doesn't have a Location header :-/</p>
+    </body>
+</html>

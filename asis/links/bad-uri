@@ -1,0 +1,13 @@
+HTTP/1.0 200 OK
+Content-Type: text/html
+
+<html>
+    <head>
+        <title>Bad URI</title>
+    </head>
+    <body>
+        <a href='http://ww.monitor.co.ugcom.coremedia.mauritius.cae.contentbeans.mauarticleimpl$$[id=1749038/'>
+            This URI doesn't have a valid hostname, yet some libraries parse
+            it as a url</a>
+    </body>
+</html>

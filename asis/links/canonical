@@ -1,0 +1,19 @@
+HTTP/1.0 200 OK
+Content-Type: text/html
+
+<html>
+    <head>
+        <title>Basic Test Page</title>
+        <link rel='canonical' href='http://localhost:8080/canonical-target' />
+    </head>
+    <body>
+        <a href='foo?sess_id=5#whatwhat'>
+            I'm a relative link that needs normalizing</a> <br/>
+        <a href='http://localhost:8080/bar?'>
+            I'm an absolute link</a> <br/>
+        <a href='baz'>
+            I'm a straightforward link</a> <br/>
+        <a href='mailto:me@example.com'>
+            I'm a scheme that's unsupported</a>
+    </body>
+</html>
