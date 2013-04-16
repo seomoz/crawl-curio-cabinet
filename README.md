@@ -15,7 +15,7 @@ Serving
 =======
 This repo will not only include example data from the pages we've seen where
 possible, but also where possible, a server capable of recreating the responses
-so that you can witness them yourself. The first thin you'll need is our
+so that you can witness them yourself. The first thing you'll need is our
 [asis](https://github.com/seomoz/asis) server:
 
 ```bash
