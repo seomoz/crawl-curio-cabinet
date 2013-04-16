@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Asis: no-charset; no-header-encode
+Date: Tue, 29 Jan 2013 22:56:40 GMT
+Server: Apache/2.2.3 (Red Hat)
+Location: http://www.estantevirtual.com.br/mod_perl/busca.cgi?alvo=autortitulo&pchave=José Saramago Ensaio sobre a Cegueira&nf=1
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Moved</title>
+</head><body>
+<h1>Moved</h1>
+<p>The document has moved <a href="http://www.estantevirtual.com.br/mod_perl/busca.cgi?alvo=autortitulo&amp;pchave=José Saramago Ensaio sobre a Cegueira&amp;nf=1">here</a>.</p>
+<hr>
+<address>Apache/2.2.3 (Red Hat) Server at www.estantevirtual.com.br Port 80</address>
+</body></html>

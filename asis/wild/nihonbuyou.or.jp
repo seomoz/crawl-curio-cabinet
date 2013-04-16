@@ -1,0 +1,191 @@
+HTTP/1.1 200 OK
+Asis: no-charset; no-header-encode
+Date: Wed, 16 Jan 2013 00:05:17 GMT
+Server: A p a c h e
+Content-Type: text/html; charset=“Shift_jis″
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Language" content="ja" />
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="Description" content="" lang="ja" xml:lang="ja" />
+<meta name="Keywords" content="" />
+<link rel="stylesheet" href="../css/import.css" type="text/css" media="screen,print" />
+<link rel="stylesheet" href="../css/intro.css" type="text/css" media="screen,print" />
+<script type="text/javascript" src="../script/scrollMenu.js"></script>
+<title>公益社団法人 日本舞踊協会｜公演・事業紹介｜第55回　日本舞踊協会公演</title>
+</head>
+<body>
+<!--header start-->
+	<div id="header">
+		<div class="logo"><a href="../index.html" title="公益社団法人 日本舞踊協会">公益社団法人 日本舞踊協会</a></div>
+		<div id="header_link">
+			<ul>
+				<li class="bt_head_news"><a href="../news/index.html" title="新着情報">新着情報</a></li>
+				<li class="bt_head_inq"><a href="https://www.nihonbuyou.or.jp/inquiry.php" title="お問合せ">お問合せ</a></li>
+				<li class="bt_head_en"><a href="http://www.nihonbuyou.or.jp/english/" title="English">English</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	<!-- global menu start -->
+		<div id="global">
+			<ul>
+				<li class="bt_navi01"><a href="../nichibu.html" title="日本舞踊協会について">日本舞踊協会について</a></li>
+				<li class="bt_navi02_act"><a href="index.html" title="公演・事業紹介">公演・事業紹介</a></li>
+				<li class="bt_navi03"><a href="../about/index.html" title="日本舞踊とは？">日本舞踊とは？</a></li>
+				<li class="bt_navi04"><a href="../member/index.html" title="会員専用ページ">会員専用ページ</a></li>
+			</ul>
+		</div>
+	<!-- global menu end -->
+	</div>
+	<div class="clear"></div>
+<!--header end-->
+
+<!--center area start-->
+	<div id="container-middle">
+	<!-- main area start -->
+	<h1 class="lb_intro" title="公演・事業紹介">公演・事業紹介</h1>
+		<div id="sub_main">
+			<div class="bread_cram"><a href="../index.html">TOP</a> > <a href="index.html">公演・事業紹介</a> > <span class="news_detail">第55回　日本舞踊協会公演</span></div>
+			<div class="intro">
+				<div class="h2_fix">
+					<div class="height_fix"></div>
+					<h2 title="第五十三回　日本舞踊協会公演" class="news_detail">第55回　日本舞踊協会公演</h2>
+				</div>
+				<div class="content_bottom">
+					<div class="content">
+						
+						<p align="center" style="padding-top:5px;"><img src="../images/label/lb_stage_end.jpg" alt="本公演は終了致しました。" width="255" height="22" vspace="5" /></p>
+						
+						<div class="column">
+							<div class="kouen_info">
+								<table width="440" border="0" cellspacing="0" cellpadding="10">
+									<tr>
+										<td width="100" align="left" valign="top">公演日</td>
+										<td style="paddin-right:0px; ">平成24年
+										2月17日（金）・18日（土）・19日（日）<br />
+										（3日間）<br /></td>
+										<td rowspan="2" align="center" valign="top" style="paddin-left:0px; "><a href="../pdf/2012kyoukai.pdf" target="_blank"><img src="../images/photo/ph_2012kyoukai.jpg" alt="第55回　日本舞踊協会公演" width="100" height="140" style="border:#ECECEC 1px solid" /></a></td>
+									</tr>
+									<tr>
+										<td width="100" align="left" valign="top" class="line_top_l">開　演</td>
+										<td>第1部　12：00　（11：30開場）<br />
+								第2部　16：30　（16：00開場）</td>
+									</tr>
+									<tr>
+										<td width="100" align="left" valign="top" class="line_top_l">会　場</td>
+										<td colspan="2"><a href="http://www.ntj.jac.go.jp/kokuritsu/index.html" target="_blank">国立劇場　大劇場</a><a href="http://www.ntj.jac.go.jp/kokuritsu/" target="_blank"></a><br />
+								東京都千代田区隼町4-1　<br />
+								TEL：03-3265-7411<br />
+								<span class="red">※公演期間中、国立劇場の駐車場は工事中です。<br />
+								誠に恐れ入りますが、お車でのご来場はお控えくださいますようお願いいたします。</span></td>
+									</tr>
+									<tr>
+										<td width="100" align="left" valign="top" class="line_top_l">チケット料金</td>
+										<td colspan="2">1等　8,000円　（指定席）<br />
+											2等　5,000円　（指定席）<br />
+											3等　1,000円　（自由席）<br />
+											<a href="../pdf/kyoukai_ranklist.pdf" target="_blank">チケット等級一覧</a><br />											</td>
+									</tr>
+									<tr>
+										<td width="100" align="left" valign="top" class="line_top_l">主催・お問合せ</td>
+										<td colspan="2">公益社団法人 日本舞踊協会<br />
+											TEL：03-3533-6455　FAX：03-3533-8768<br />
+										<!--<div class="bt_mail_inq"><a href="https://www.nihonbuyou.or.jp/inquiry.php" title="Eメールでのお問合せ">Eメールでのお問合せ</a></div>--></td>
+									</tr>
+									<tr>
+										<td align="left" valign="top" class="line_top_l">後　援</td>
+										<td colspan="2">NHK</td>
+									</tr>
+									<tr>
+										<td align="left" valign="top" class="line_top_l">助　成</td>
+										<td colspan="2">2012都民芸術フェスティバル</td>
+									</tr>
+									<tr>
+										<td align="left" valign="top" class="line_top_l">前売開始</td>
+										<td colspan="2" class="red"><strong>平成 24 年 1 月   17 日（火）午前10時発売開始</strong></td>
+									</tr>
+									<tr>
+										<td width="100" align="left" valign="top" class="line_top_l">チケット
+										取り扱い</td>
+										<td colspan="2">■   協会ホームページチケットご注文フォームより<br />
+										
+											<p>※2月15日（水） 正午受付終了</p>
+											■電子チケットぴあ <br />
+										<p>0570-02-9999<br />
+サイト： <a href="http://t.pia.co.jp/" target="_blank">http://t.pia.co.jp/</a></p>
+■国立劇場チケット売場 <br />
+<p>窓口販売のみ　03-3265-7411（代表）</p></td>
+									</tr>
+								</table>
+							</div>
+						</div>
+						<div class="column dot_line_btm">
+							<h3 class="lb_kyoukai" title="2月17日（金）　演目・出演者" id="1">2月17日（金）　演目・出演者</h3>
+							<p align="right"><img src="../images/photo/ph_2012kyoukai_01.gif"  /></p>
+							<p align="right"><img src="../images/photo/ph_2012kyoukai_02.gif"  /><br />
+							</p>
+						</div>
+						<div class="column dot_line_btm">
+							<h3 class="lb_kyoukai" title="2月18日（土）　演目・出演者" id="2">2月18日（土）　演目・出演者</h3>
+							<p align="right"><img src="../images/photo/ph_2012kyoukai_03.gif"  /></p>
+							<p align="right"><img src="../images/photo/ph_2012kyoukai_04.gif"  /><br />
+							</p>
+						</div>
+						<div class="column dot_line_btm">
+							<h3 class="lb_kyoukai" title="2月19日（日）　演目・出演者" id="3">2月19日（日）　演目・出演者</h3>
+							<p align="right"><img src="../images/photo/ph_2012kyoukai_05.gif"  /></p>
+							<p align="right"><img src="../images/photo/ph_2012kyoukai_06.gif"  /><br />
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="page_top"><img src="../images/icon/ic_arrow_u.gif" width="7" height="8" hspace="5" align="baseline" /><a href="#">ページTOPへ戻る</a></div>
+		</div>	
+	<!-- mainarea end -->
+	<!-- sidemenu start -->
+		<div id="sidebar">
+			<div id="sidemenu">
+				<div class="side_top"></div>
+				<ul>
+					<li class="intro_act" title="公演・事業紹介"><a href="index.html" title="公演・事業紹介">公演・事業紹介</a></li>
+					<li class="act"><a href="index.html#one" title="主催公演">主催公演</a></li>
+					<li class="sub"><a href="2012kyoukai.html" title="第55回　日本舞踊協会公演">第55回　日本舞踊協会公演</a></li>
+					<li class="sub"><a href="#1" title="2月17日（金） 演目・出演者"><span style="padding-left:0">2月17日（金） 演目・出演者</span> </a></li>
+					<li class="sub"><a href="#2" title="2月18日（土） 演目・出演者"><span style="padding-left:0;">2月18日（土） 演目・出演者</span></a></li>
+					<li class="sub"><a href="#3" title="2月19日（日） 演目・出演者"><span style="padding-left:0;">2月19日（日） 演目・出演者</span></a></li>
+					<li><a href="other.html" title="その他の公演">その他の公演</a></li>
+					<li class="end"><a href="activity.html" title="その他の事業">その他の事業</a></li>
+				</ul>
+				<div class="side_btm"></div>
+				<p align="right"><img src="../images/icon/ic_arrow_l.gif" width="8" height="7" hspace="5" /><a href="../index.html">サイトTOPへ戻る</a></p>
+			</div>
+			<div class="clear"></div>
+		</div>
+	<!-- sidemenu end -->
+	<div class="clear"></div>
+</div>
+<!--center area end-->
+<!-- footer start -->
+	<div id="footer">
+		<div class="footer_area">
+			<div class="footer_link">
+				<ul>
+					<li><a href="../nichibu.html">団体の概要</a></li>
+					<li><a href="../link.html">リンク集</a></li>
+					<li><a href="../privacy.html">個人情報保護方針</a></li>
+					<li><a href="../sitepolicy.html">サイトのご利用について</a></li>
+					<li class="end"><a href="https://www.nihonbuyou.or.jp/inquiry.php">お問合せ</a></li>
+				</ul>
+			</div>
+			<div class="footer_logo"><a href="../index.html" title="公益社団法人 日本舞踊協会">公益社団法人 日本舞踊協会</a></div>
+			<div class="clear"></div>
+		</div>
+	</div>
+<!-- footer end -->
+</body>
+</html>

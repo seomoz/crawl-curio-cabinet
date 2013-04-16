@@ -1,0 +1,5 @@
+HTTP/1.1 200 OK
+Content-Length: 1000
+Content-Type: text/plain
+
+# This is purposely shorter than the advertised content length

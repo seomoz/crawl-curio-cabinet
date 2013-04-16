@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<html>
+    <head>
+        <title>Timeouts</title>
+    </head>
+    <body>
+        <h2>Timeouts must be dealt with!</h2>
+
+        <h3><a href='truncated'>Truncated Response</a></h3>
+        <p>A truncated response advertises a certain amount of data to be sent
+            but then sends less than that. This example keeps the socket open,
+            which doesn't allow the requester to know that the sender's done
+            sending and this causes the request to time out</p>
+    </body>
+</html>

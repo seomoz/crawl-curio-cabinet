@@ -1,0 +1,212 @@
+HTTP/1.1 200 OK
+Date: Wed, 09 Jan 2013 23:59:57 GMT
+Server: Apache
+Vary: Accept-Encoding
+Content-Type: text/html
+
+<HTML>
+<HEAD>
+<TITLE>フォームメール</TITLE>
+</HEAD>
+<BODY bgcolor="#ffffff">
+<CENTER>
+
+
+<br>
+</CENTER>
+<P align=center><FONT face="HGP創英角ﾎﾟｯﾌﾟ体" size="6" color="#ff0053">フォームメール</FONT></P>
+<FORM METHOD="post" ACTION="./form.cgi">
+<INPUT TYPE=hidden NAME="mode" VALUE="check">
+<hr color="#ff00ff"><FONT face="ＭＳ ゴシック" size="2" color="#ff00ff">＊項目は必須入力です</FONT>
+<hr color="#ff00ff"><FONT size="2" color="#df0000">*</FONT><FONT face="MS UI Gothic" size="3" color="#000000">おなまえ</FONT><br><FONT face="MS UI Gothic" size="3" color="#000000">姓</FONT><input type=text name="0000-1" value="" size="20"><br><FONT face="MS UI Gothic" size="3" color="#000000">名</FONT><input type=text name="0000-2" value="" size="20">
+
+<hr color="#ff00ff"><FONT size="2" color="#df0000">*</FONT><FONT face="MS UI Gothic" size="3" color="#000000">フリガナ</FONT><br><FONT face="MS UI Gothic" size="3" color="#000000">姓</FONT><input type=text name="0001-1" value="" size="20"><br><FONT face="MS UI Gothic" size="3" color="#000000">名</FONT><input type=text name="0001-2" value="" size="20">
+<FONT face="MS UI Gothic" size="2" color="#000000">（全角カタカナ）</FONT><br>
+
+<hr color="#ff00ff"><FONT size="2" color="#df0000">*</FONT><FONT face="MS UI Gothic" size="3" color="#000000">メールアドレス</FONT><br><input type=text name="0002-1" value="" size="20">
+<FONT face="ＭＳ ゴシック" size="2" color="#000000">（半角英数字）</FONT><br>
+
+<hr color="#ff00ff"><FONT face="MS UI Gothic" size="3" color="#000000">性別</FONT><br><input type=radio name="0003-1" value="男性"><FONT face="MS UI Gothic" size="3" color="#000000">男性</FONT>
+　<input type=radio name="0003-1" value="女性"><FONT face="MS UI Gothic" size="3" color="#000000">女性</FONT>
+
+<hr color="#ff00ff"><FONT face="MS UI Gothic" size="3" color="#000000">生年月日</FONT><br><select name="0004-1">
+<option value=""></option>
+<option value="1950">1950</option>
+<option value="1951">1951</option>
+<option value="1952">1952</option>
+<option value="1953">1953</option>
+<option value="1954">1954</option>
+<option value="1955">1955</option>
+<option value="1956">1956</option>
+<option value="1957">1957</option>
+<option value="1958">1958</option>
+<option value="1959">1959</option>
+<option value="1960">1960</option>
+<option value="1961">1961</option>
+<option value="1962">1962</option>
+<option value="1963">1963</option>
+<option value="1964">1964</option>
+<option value="1965">1965</option>
+<option value="1966">1966</option>
+<option value="1967">1967</option>
+<option value="1968">1968</option>
+<option value="1969">1969</option>
+<option value="1970" selected>1970</option>
+<option value="1971">1971</option>
+<option value="1972">1972</option>
+<option value="1973">1973</option>
+<option value="1974">1974</option>
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+</select><FONT face="MS UI Gothic" size="3" color="#000000">年</FONT>
+<select name="0004-2">
+<option value=""></option>
+<option value="01" selected>01</option>
+<option value="02">02</option>
+<option value="03">03</option>
+<option value="04">04</option>
+<option value="05">05</option>
+<option value="06">06</option>
+<option value="07">07</option>
+<option value="08">08</option>
+<option value="09">09</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+</select><FONT face="MS UI Gothic" size="3" color="#000000">月</FONT>
+<select name="0004-3">
+<option value=""></option>
+<option value="01" selected>01</option>
+<option value="02">02</option>
+<option value="03">03</option>
+<option value="04">04</option>
+<option value="05">05</option>
+<option value="06">06</option>
+<option value="07">07</option>
+<option value="08">08</option>
+<option value="09">09</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select><FONT face="MS UI Gothic" size="3" color="#000000">日</FONT>
+
+<hr color="#ff00ff"><FONT face="MS UI Gothic" size="3" color="#000000">郵便番号</FONT><br><input type=text name="0005-1" value="" size="6"><FONT face="MS UI Gothic" size="3" color="#000000">－</FONT><input type=text name="0005-2" value="" size="6">
+<FONT face="MS UI Gothic" size="2" color="#000000">（半角数字）</FONT><br>
+
+<hr color="#ff00ff"><FONT face="MS UI Gothic" size="3" color="#000000">住所</FONT><br><select name="0006-1">
+<option value=""></option>
+<option value="北海道">北海道</option>
+<option value="青森県">青森県</option>
+<option value="岩手県">岩手県</option>
+<option value="宮城県">宮城県</option>
+<option value="秋田県">秋田県</option>
+<option value="山形県">山形県</option>
+<option value="福島県">福島県</option>
+<option value="茨城県">茨城県</option>
+<option value="栃木県">栃木県</option>
+<option value="群馬県">群馬県</option>
+<option value="埼玉県">埼玉県</option>
+<option value="千葉県">千葉県</option>
+<option value="東京都">東京都</option>
+<option value="神奈川県">神奈川県</option>
+<option value="新潟県">新潟県</option>
+<option value="富山県">富山県</option>
+<option value="石川県">石川県</option>
+<option value="福井県">福井県</option>
+<option value="山梨県">山梨県</option>
+<option value="長野県">長野県</option>
+<option value="岐阜県">岐阜県</option>
+<option value="静岡県">静岡県</option>
+<option value="愛知県">愛知県</option>
+<option value="三重県">三重県</option>
+<option value="滋賀県">滋賀県</option>
+<option value="京都府">京都府</option>
+<option value="大阪府">大阪府</option>
+<option value="兵庫県">兵庫県</option>
+<option value="奈良県">奈良県</option>
+<option value="和歌山県">和歌山県</option>
+<option value="鳥取県">鳥取県</option>
+<option value="島根県">島根県</option>
+<option value="岡山県">岡山県</option>
+<option value="広島県">広島県</option>
+<option value="山口県">山口県</option>
+<option value="徳島県">徳島県</option>
+<option value="香川県">香川県</option>
+<option value="愛媛県">愛媛県</option>
+<option value="高知県">高知県</option>
+<option value="福岡県">福岡県</option>
+<option value="佐賀県">佐賀県</option>
+<option value="長崎県">長崎県</option>
+<option value="熊本県">熊本県</option>
+<option value="大分県">大分県</option>
+<option value="宮崎県">宮崎県</option>
+<option value="鹿児島県">鹿児島県</option>
+<option value="沖縄県">沖縄県</option>
+<option value="海外">海外</option>
+</select>
+<input type=text name="0006-2" value="" size="20">
+
+<hr color="#ff00ff"><FONT face="MS UI Gothic" size="3" color="#000000">電話番号</FONT><br><input type=text name="0007-1" value="" size="6"><FONT face="MS UI Gothic" size="3" color="#000000">－</FONT><input type=text name="0007-2" value="" size="6"><FONT face="MS UI Gothic" size="3" color="#000000">－</FONT><input type=text name="0007-3" value="" size="6">
+<FONT face="MS UI Gothic" size="2" color="#000000">（半角数字）</FONT><br>
+
+<hr color="#ff00ff"><FONT face="MS UI Gothic" size="3" color="#000000">通信欄</FONT><br><textarea name="0008-1" cols="20" rows="5"></textarea>
+<br><FONT face="MS UI Gothic" size="2" color="#000000">ご意見・ご要望をお書きください。</FONT><br>
+
+
+<CENTER>
+<hr color="#ff00ff">
+<INPUT TYPE=submit VALUE="　送　信　">
+</FORM>
+
+<br><br><iframe src="http://ii-mail.info/ad/disp.cgi?gid=0300" width=470  height=25 frameborder=1 scrolling=no></iframe><br>　　<A target="_blank" href="http://ii-mail.info/ad/entry.cgi?gid=0300"><FONT size="1">テキストランダム広告申し込み</A></FONT><br><p><FONT size="1">お勧め広告配信サイト</p><A target="_blank" href="http://niji.ii-mail.info/"><FONT size="1">虹の架橋</A>・<A target="_blank" href="http://tanto.mods.jp/nijikaiin/top.cgi">虹の架橋COM</A>・<A target="_blank" href="http://miti.ii-mail.info/">道しるべ</A>・<A target="_blank" href="http://tokutokusenden.web.fc2.com/">とくとく宣伝</A>･<A target="_blank" href="http://ii-mail.info/mm/top.cgi">夢かける</A>><p><FONT size="1">フォーム申し込み</p><A target="_blank" href="http://ii-mail.info/ff/"><FONT size="1">レンタルフォーム申し込み</A>
+</CENTER>
+</BODY>
+</HTML>

@@ -1,0 +1,875 @@
+HTTP/1.1 200 OK
+Asis: no-charset
+Server: Apache/2.2.22 (Ubuntu)
+X-Powered-By: PHP/5.3.10-1ubuntu3.4
+X-Pingback: http://www.gizmodo.fr/xmlrpc.php
+Link: <http://www.gizmodo.fr/?p=196967>; rel=shortlink
+X-Mod-Pagespeed: 1.0.22.7-2003
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 29 Jan 2013 23:47:43 GMT
+X-Varnish: 3193245911 3193225355
+Age: 158
+Via: 1.1 varnish
+Connection: keep-alive
+X-Cache: HIT
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="fr-FR" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://developers.facebook.com/schema/">
+<head profile="http://gmpg.org/xfn/11">
+<title>
+Enfin une jolie imprimante 3D de salon | Gizmodo</title>
+<link href="https://plus.google.com/100769192302390633081" rel="publisher"/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="distribution" content="global"/>
+<meta name="google-site-verification" content="sjNfDY58GcTrQ3Q372qeuOUlYI59llyqILbCZ3GLeAs"/>
+<meta name="google-site-verification" content="8wFexjlgGn4DemoHxdaZIB0b7_n9E63ogmjazx5nQME"/>
+<meta name="keywords" content="Chuck Hull, Cubify, imprimante 3D, "/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@gizmodofr">
+<meta name="twitter:creator" content="@gizmodofr">
+<meta property="og:site_name" content="gizmodo.fr"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Enfin une jolie imprimante 3D de salon"/>
+<meta property="og:url" content="http://www.gizmodo.fr/2013/01/17/imprimante-3d-salon-cubify.html"/>
+<meta property="og:description" content="Les imprimantes 3D de Cubify ressemblent à des machines à café croisées avec des machines à coudre et c’est exactement ce qu’il faut : elles s’intègreront parfaitement avec votre intérieur. Et c’est peut-être ce qui fera de cette imprimante 3D, une ..."/>
+<meta property="og:image" content="http://www.gizmodo.fr/wp-content/uploads/2013/01/cubify-imprimante-3d-1-92x92.jpg">
+<link rel="image_src" href="http://www.gizmodo.fr/wp-content/uploads/2013/01/cubify-imprimante-3d-1-92x92.jpg"/>
+<meta property="fb:app_id" content="439706959399948"/>
+<link href="126219777409623" rel="publisher"/>
+<link href="http://www.gizmodo.fr/wp-content/themes/giz2/A.style_g.css.pagespeed.cf.MMGJhW5Pie.css" type="text/css" rel="stylesheet">
+<link type="image/x-icon" href="http://www.gizmodo.fr/wp-content/themes/giz2/images/favicon.ico" rel="shortcut icon">
+<meta name="description" content="Les imprimantes 3D de Cubify ressemblent à des machines à café croisées avec des machines à coudre et c’est exactement ce qu’il faut :"/>
+<link rel="canonical" href="http://www.gizmodo.fr/2013/01/17/imprimante-3d-salon-cubify.html"/>
+<link rel="original-source" href="http://www.gizmodo.fr/2013/01/17/imprimante-3d-salon-cubify.html"/>
+<link rel="alternate" type="application/rss+xml" title="Gizmodo &raquo; Flux" href="http://www.gizmodo.fr/feed"/>
+<link rel="alternate" type="application/rss+xml" title="Gizmodo &raquo; Flux des commentaires" href="http://www.gizmodo.fr/comments/feed"/>
+<link rel="alternate" type="application/rss+xml" title="Gizmodo &raquo; Enfin une jolie imprimante 3D de salon Flux des commentaires" href="http://www.gizmodo.fr/2013/01/17/imprimante-3d-salon-cubify.html/feed"/>
+<link rel='stylesheet' id='NextGEN-css' href='http://www.gizmodo.fr/wp-content/plugins/nextgen-gallery/css/A.nggallery.css,qver=1.0.0.pagespeed.cf.PqVEu6UpbB.css' type='text/css' media='screen'/>
+<link rel='stylesheet' id='shutter-css' href='http://www.gizmodo.fr/wp-content/plugins/nextgen-gallery/shutter/A.shutter-reloaded.css,qver=1.3.4.pagespeed.cf.OqzSuP8jRb.css' type='text/css' media='screen'/>
+<style>.wp-polls-archive{}.wp-polls,.wp-polls-form{}.wp-polls ul li,.wp-polls-ul li,.wp-polls-ans ul li{text-align:left;background-image:none;display:block}.wp-polls ul,.wp-polls-ul,.wp-polls-ans ul{text-align:left;list-style:none;float:none}.wp-polls ul li:before,.wp-polls-ans ul li:before,#sidebar ul ul li:before{content:""}.wp-polls IMG,.wp-polls LABEL,.wp-polls INPUT,.wp-polls-loading IMG,.wp-polls-image IMG{display:inline;border:0px;padding:0px;margin:0px}.wp-polls-ul{padding:0px;margin:0px 0px 10px 10px}.wp-polls-ans{width:100%;filter:alpha(opacity=100);-moz-opacity:1;opacity:1}.wp-polls-loading{display:none;text-align:center;height:16px;line-height:16px}.wp-polls-image{border:0px}.wp-polls .Buttons{border:1px solid #c8c8c8;background-color:#f3f6f8}.wp-polls-paging a,.wp-polls-paging a:link{padding:2px 4px 2px 4px;margin:2px;text-decoration:none;border:1px solid #06c;color:#06c;background-color:#fff}.wp-polls-paging a:visited{padding:2px 4px 2px 4px;margin:2px;text-decoration:none;border:1px solid #06c;color:#06c;background-color:#fff}.wp-polls-paging a:hover{border:1px solid #000;color:#000;background-color:#fff}.wp-polls-paging a:active{padding:2px 4px 2px 4px;margin:2px;text-decoration:none;border:1px solid #06c;color:#06c;background-color:#fff}.wp-polls-paging span.pages{padding:2px 4px 2px 4px;margin:2px 2px 2px 2px;color:#000;border:1px solid #000;background-color:#fff}.wp-polls-paging span.current{padding:2px 4px 2px 4px;margin:2px;font-weight:bold;border:1px solid #000;color:#000;background-color:#fff}.wp-polls-paging span.extend{padding:2px 4px 2px 4px;margin:2px;border:1px solid #000;color:#000;background-color:#fff}</style>
+<style>div.wpcf7{margin:0;padding:0}div.wpcf7-response-output{margin:2em 0.5em 1em;padding:0.2em 1em}div.wpcf7-mail-sent-ok{border:2px solid #398f14}div.wpcf7-mail-sent-ng{border:2px solid red}div.wpcf7-spam-blocked{border:2px solid #ffa500}div.wpcf7-validation-errors{border:2px solid #f7e700}span.wpcf7-form-control-wrap{position:relative}span.wpcf7-not-valid-tip{position:absolute;top:20%;left:20%;z-index:100;background:#fff;border:1px solid red;font-size:10pt;width:280px;padding:2px}span.wpcf7-not-valid-tip-no-ajax{color:red;font-size:10pt;display:block}span.wpcf7-list-item{margin-left:0.5em}.wpcf7-display-none{display:none}div.wpcf7 img.ajax-loader{border:none;vertical-align:middle;margin-left:4px}div.wpcf7 .watermark{color:#888}</style>
+<script src="http://www.gizmodo.fr/wp-includes,_js,_jquery,_jquery.js,,qver==1.7.2,Mjm.XZwfunyK-6.js%20wp-content,_plugins,_NME-webtracking,_js,_nme-probance-tagger.js,,qver==1.0,Mjm.XoO2zkb1l_.js%20wp-includes,_js,_swfobject.js,,qver==2.2-20120417,Mjm.PPL4wa9Juw.js.pagespeed.jc.vJyal9rQim.js"></script><script>eval(mod_pagespeed_sasCXI9BTj);</script>
+<script>eval(mod_pagespeed_yBMsnlFCdZ);</script>
+<script>eval(mod_pagespeed_GESmnqWLof);</script>
+<script type='text/javascript'>//<![CDATA[
+var shutterSettings={"msgLoading":"L O A D I N G","msgClose":"Click to Close","imageCount":"1"};
+//]]></script>
+<script src="http://www.gizmodo.fr/wp-content,_plugins,_nextgen-gallery,_shutter,_shutter-reloaded.js,,qver==1.3.3,Mjm.rdbWm0Ox-o.js+wp-content,_plugins,_nextgen-gallery,_js,_jquery.cycle.all.min.js,qver==2.9995+wp-content,_plugins,_nextgen-gallery,_js,_ngg.slideshow.min.js,qver==1.06+wp-includes,_js,_comment-reply.js,qver==3.4.2.pagespeed.jc.nTHAUR3s8M.js"></script><script>eval(mod_pagespeed_KfVARYxVIn);</script>
+<script>eval(mod_pagespeed_eW2fkD3PjV);</script>
+<script>eval(mod_pagespeed_H5B9WNI8Uo);</script>
+<script>eval(mod_pagespeed_ADnbl4VLlW);</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.gizmodo.fr/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.gizmodo.fr/wp-includes/wlwmanifest.xml"/>
+<link rel='shortlink' href='http://www.gizmodo.fr/?p=196967'/>
+<style type="text/css">.wp-polls .pollbar{margin:1px;font-size:6px;line-height:8px;height:8px;background-image:url(http://www.gizmodo.fr/wp-content/plugins/wp-polls/images/default/pollbg.gif.pagespeed.ce.aOeatkqOPP.gif);border:1px solid #c8c8c8}</style>
+<link rel='index' title='Gizmodo' href='http://www.gizmodo.fr'/>
+<link rel='start' title='Le tout dernier téléphone &laquo;&nbsp;ultra fin&nbsp;&raquo; de NEC' href='http://www.gizmodo.fr/2005/09/21/le_tout_dernier_telephone_ultr.html'/>
+<link rel='prev' title='Comment faire tenir 8 chambres dans 39m²' href='http://www.gizmodo.fr/2013/01/17/chambre-paris.html'/>
+<link rel='next' title='Un fauteuil monstrueusement poilu' href='http://www.gizmodo.fr/2013/01/17/fauteuil-boule-poil-monstrueusement-poilu.html'/>
+<style type="text/css">.recentcomments a{display:inline!important;padding:0!important;margin:0!important}</style>
+<style type="text/css">.vvqbox{display:block;max-width:100%;visibility:visible!important;margin:10px auto}.vvqbox img{max-width:100%;height:100%}.vvqbox object{max-width:100%}</style>
+<script type="text/javascript">//<![CDATA[
+var vvqflashvars={};var vvqparams={wmode:"opaque",allowfullscreen:"true",allowscriptaccess:"always"};var vvqattributes={};var vvqexpressinstall="http://www.gizmodo.fr/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+//]]></script>
+<script type="text/javascript">(function(){var useSSL='https:'==document.location.protocol;var src=(useSSL?'https:':'http:')+'//www.googletagservices.com/tag/js/gpt.js';document.write('<scr'+'ipt src="'+src+'"></scr'+'ipt>');})();</script>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.defineSlot('/14668010/gizmodo/article',[2,2],'div-gpt-pre_home-1').addService(googletag.pubads()).setTargeting("artid","196967").setTargeting("cat","gizmodo-tech");googletag.defineOutOfPageSlot('/14668010/gizmodo/article','div-gpt-pre_home-1-oop').addService(googletag.pubads()).setTargeting("artid","196967").setTargeting("cat","gizmodo-tech");googletag.defineSlot('/14668010/gizmodo/article',[1,1],'div-gpt-skin-1').addService(googletag.pubads()).setTargeting("artid","196967").setTargeting("cat","gizmodo-tech");googletag.defineSlot('/14668010/gizmodo/article',[[728,90],[728,200]],'div-gpt-mega-1').addService(googletag.pubads()).setTargeting("artid","196967").setTargeting("cat","gizmodo-tech");googletag.defineSlot('/14668010/gizmodo/article',[[300,250],[300,600]],'div-gpt-mpu-1').addService(googletag.pubads()).setTargeting("pos","1").setTargeting("artid","196967").setTargeting("cat","gizmodo-tech");googletag.defineSlot('/14668010/gizmodo/article',[[300,250],[300,600]],'div-gpt-mpu-2').addService(googletag.pubads()).setTargeting("pos","2").setTargeting("artid","196967").setTargeting("cat","gizmodo-tech");googletag.defineSlot('/14668010/gizmodo/article',[5,5],'div-gpt-flash_trans-1').addService(googletag.pubads()).setTargeting("artid","196967").setTargeting("cat","gizmodo-tech");googletag.defineOutOfPageSlot('/14668010/gizmodo/article','div-gpt-flash_trans-1-oop').addService(googletag.pubads()).setTargeting("artid","196967").setTargeting("cat","gizmodo-tech");googletag.defineSlot('/14668010/gizmodo/article',[1080,220],'div-gpt-header-1').addService(googletag.pubads()).setTargeting("artid","196967").setTargeting("cat","gizmodo-tech");googletag.pubads().enableSyncRendering();googletag.enableServices();});</script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" pagespeed_no_defer="true">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-2644225-1']);_gaq.push(['_trackPageview','/gizmodo-tech/imprimante-3d-salon-cubify.html']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+<style type="text/css">.last_silicon{border-bottom:1px solid #d6d6d6;padding-bottom:5px}.last_silicon .last_title{font-weight:bold;border-bottom:1px solid #d6d6d6;padding-bottom:5px;margin-bottom:10px}.last_silicon ul{margin:0;pading:0}.last_silicon ul li{display:inline-block;width:128px;margin:0 0 10px 10px;padding:0;vertical-align:top}.last_silicon ul li.first{margin-left:0}.last_silicon ul li .thumb_silicon{}.last_silicon ul li .thumb_silicon img{max-width:120px;height:auto;padding:3px;background-color:#fff;border:1px solid #ccc}.last_silicon ul li .thumb_silicon img:hover{border-color:#a0a0a0}.last_silicon ul li .title_silicon{font-size:12px;font-weight:normal;margin-top:5px}</style></head>
+<body class="single single-post postid-196967 single-format-standard">
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/fr_FR/all.js"></script>
+<script>FB.init({appId:'152190871493490',status:true,cookie:true,xfbml:true});FB.Event.subscribe('auth.sessionChange',function(response){if(response.session){}else{}});FB.Event.subscribe('edge.create',function(href,widget){var url="http://pro.opengraphy.com/pro/dev/2.0/stats.php?ref="+window.location.href+"&url="+href;imgTmp=new Image();imgTmp.src=url;});</script>
+<div id="fb-root"></div>
+<script type="text/javascript" pagespeed_no_defer="true">window.fbAsyncInit=function(){FB.init({appId:'152190871493490',status:true,cookie:true,xfbml:true,oauth:true});FB.Event.subscribe('auth.login',function(response){});FB.getLoginStatus(function(response){var single='true';if(response.status=='connected'&&single=='true'){var params={};params['name']='Enfin une jolie imprimante 3D de salon';params['description']="Les imprimantes 3D de Cubify ressemblent à des machines à café croisées avec des machines à coudre et c’est exactement ce qu’il faut : elles s’intègreront parfaitement avec votre intérieur. Et c’est peut-être ce qui fera de cette imprimante 3D, une ...";params['link']='http://www.gizmodo.fr/2013/01/17/imprimante-3d-salon-cubify.html';params['picture']='http://www.gizmodo.fr/wp-content/uploads/2013/01/cubify-imprimante-3d-1-92x92.jpg';params['caption']='www.gizmodo.fr';FB.api('/me/feed','post',params,function(response){});}});};(function(d){var js,id='facebook-jssdk';if(d.getElementById(id)){return;}
+js=d.createElement('script');js.id=id;js.async=true;js.src="//connect.facebook.net/en_US/all.js";d.getElementsByTagName('head')[0].appendChild(js);}(document));</script>
+<div id='div-gpt-pre_home-1'>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-pre_home-1');});</script>
+</div>
+<div id='div-gpt-pre_home-1-oop'>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-pre_home-1-oop');});</script>
+</div>
+<div id='div-gpt-skin-1'>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-skin-1');});</script>
+</div>
+<div style="text-align:center;position: relative;z-index:100">
+<div id='div-gpt-flash_trans-1'>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-flash_trans-1');});</script>
+</div>
+<div id='div-gpt-flash_trans-1-oop'>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-flash_trans-1-oop');});</script>
+</div>
+</div>
+<div id="fb-root"></div>
+<div id="gizmo_container">
+<div id="cont_top">
+</div>
+<div id="container">
+<div id="header_wrap">
+<div id="header" class="size">
+<div class="header_site">
+<ul>
+<li><a rel="nofollow" href="http://www.gizmodo.com.au/">AU</a></li>
+<li><a rel="nofollow" href="http://www.gizmodo.com.br/">BR</a></li>
+<li><a rel="nofollow" href="http://www.gizmodo.de/">DE</a></li>
+<li><a rel="nofollow" href="http://www.gizmodo.es/">ES</a></li>
+<li><a rel="nofollow" href="http://www.gizmodo.fr/">FR</a></li>
+<li><a rel="nofollow" href="http://www.gizmodo.it/">IT</a></li>
+<li><a rel="nofollow" href="http://www.gizmodo.jp/">JP</a></li>
+<li><a rel="nofollow" href="http://www.gizmodo.pl/">PL</a></li>
+<li><a rel="nofollow" href="http://uk.gizmodo.com/">UK</a></li>
+<li><a rel="nofollow" href="http://us.gizmodo.com/">US</a></li>
+<li class="last"><div style="margin-top: -5px; margin-right: 3px;" class="fb-login-button" data-show-faces="false" data-width="200" data-max-rows="1" data-autologoutlink="true" scope="publish_actions"></div></li>
+</ul>
+</div>
+<div class="header_top">
+<h2 id="logo">	<a href="http://www.gizmodo.fr"><img src="http://www.gizmodo.fr/wp-content/themes/giz2/images/290x83xlogo-gizmodo-france.png.pagespeed.ic.6RxsIT0yX6.png" width="290" height="83"/> </a>
+</h2>	<div class="apps">
+<ul>
+<li class="ico-google"><a target="blank" href="https://plus.google.com/100769192302390633081/posts" title="Google +1">Google +1</a></li>
+<li class="ico-facebook"><a target="blank" href="http://www.facebook.com/gizmodofrance?sk=app_4949752878" title="Facebook">Facebook</a></li>
+<li class="ico-twitter"><a target="blank" href="http://twitter.com/gizmodofr" title="Twitter">Twitter</a></li>
+<li class="ico-rss"><a target="blank" href="http://www.gizmodo.fr/feed" title="RSS">RSS</a></li>
+<li class="ico-newsletter"><a target="blank" href="http://www.gizmodo.fr/inscription-a-la-newsletter" title="Newsletter">Newsletter</a></li>
+<li class="ico-ios"><a target="blank" href="http://itunes.apple.com/fr/app/gizmodo-france/id483382547?mt=8" title="Application IOS">Application IOS</a></li>
+<li class="ico-android"><a target="blank" href="https://market.android.com/details?id=org.com.gizmodo&feature=search_result#?t=W251bGwsMSwxLDEsIm9yZy5jb20uZ2l6bW9kbyJd" title="Application Android">Application Android</a></li>
+<li class="ico-windows"><a target="blank" href="http://www.windowsphone.com/fr-FR/apps/580318d3-bbb5-48ef-ad7b-90408a5696be" title="Application Windows Phone">Application Windows Phone</a></li>
+</ul>
+</div>
+<div id="search_box" class="clearfix">
+<form id="searchForm" method="get" action="http://www.gizmodo.fr" class="clearfix">
+<fieldset>
+<legend class="rpl"><span>Search</span></legend>
+<span class="textField rounded" id="searchquery_span">
+<input type="text" class="textFieldImp clearMeFocus" value="" id="searchquery" name="s" title="Type a keyword"/>
+</span>
+<span class="btnField" id="searchbtn_span">
+<button class="btn rpl" type="submit"><span>Search</span></button>
+</span>
+</fieldset>
+</form>
+</div>
+</div>
+<div style="background-color: #fff;">
+<div id="big-mega" style="display:block;width: 1000px;">
+<div id='div-gpt-header-1'>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-header-1');});</script>
+</div>
+</div>
+<div id="top">
+<div style="width: 732px;float: left;">
+<div id="topStories"><div class="widget-titles">A LA UNE</div>
+<ul>
+<li>
+<div class="topimage">
+<a href="http://www.gizmodo.fr/2013/01/27/las-vegas-vue-nuit.html" title="Lien permanent vers Las Vegas de nuit vue de l’espace : un trou vers l’enfer" rel="bookmark">
+<img width="126" height="100" src="http://www.gizmodo.fr/wp-content/uploads/2013/01/126x100xlas-vegas-126x100.jpg.pagespeed.ic.2iQSfZ5ZqM.jpg" class="attachment-top-thumb wp-post-image" alt="las vegas" title="las vegas"/>	</a>
+</div>
+<div class="toptitre"><a href="http://www.gizmodo.fr/2013/01/27/las-vegas-vue-nuit.html" title="Lien permanent vers Las Vegas de nuit vue de l’espace : un trou vers l’enfer" rel="bookmark">
+Las Vegas de nuit vue de l’espace : un trou vers l’...	</a></div>
+</li>
+<li>
+<div class="topimage">
+<a href="http://www.gizmodo.fr/2013/01/25/galaxy-note-8-leak.html" title="Lien permanent vers Une première photo volée de la Galaxy Note 8.0 ?" rel="bookmark">
+<img width="126" height="100" src="http://www.gizmodo.fr/wp-content/uploads/2013/01/126x100xgalaxy-note-8-126x100.jpg.pagespeed.ic.ktTiq3xVZq.jpg" class="attachment-top-thumb wp-post-image" alt="Galaxy Note 8.0" title="Galaxy Note 8.0"/>	</a>
+</div>
+<div class="toptitre"><a href="http://www.gizmodo.fr/2013/01/25/galaxy-note-8-leak.html" title="Lien permanent vers Une première photo volée de la Galaxy Note 8.0 ?" rel="bookmark">
+Une première photo volée de la Galaxy Note 8.0 ?	</a></div>
+</li>
+<li>
+<div class="topimage">
+<a href="http://www.gizmodo.fr/2013/01/24/paris-photo-couleurs.html" title="Lien permanent vers Des photos de Paris en couleurs datant du début du 20ème siècle" rel="bookmark">
+<img width="126" height="100" src="http://www.gizmodo.fr/wp-content/uploads/2013/01/126x100xparis-4-126x100.jpg.pagespeed.ic.sGJto1nRj-.jpg" class="attachment-top-thumb wp-post-image" alt="Paris" title="Paris"/>	</a>
+</div>
+<div class="toptitre"><a href="http://www.gizmodo.fr/2013/01/24/paris-photo-couleurs.html" title="Lien permanent vers Des photos de Paris en couleurs datant du début du 20ème siècle" rel="bookmark">
+Des photos de Paris en couleurs datant du début du 20�...	</a></div>
+</li>
+<li>
+<div class="topimage">
+<a href="http://www.gizmodo.fr/2013/01/23/wind-waker-wii-u.html" title="Lien permanent vers Un remake de The Legend of Zelda : Wind Waker pour la Wii U" rel="bookmark">
+<img width="126" height="100" src="http://www.gizmodo.fr/wp-content/uploads/2013/01/126x100xwind-waker-126x100.jpg.pagespeed.ic.ncIYOUBVLT.jpg" class="attachment-top-thumb wp-post-image" alt="Wind Waker HD" title="Wind Waker HD"/>	</a>
+</div>
+<div class="toptitre"><a href="http://www.gizmodo.fr/2013/01/23/wind-waker-wii-u.html" title="Lien permanent vers Un remake de The Legend of Zelda : Wind Waker pour la Wii U" rel="bookmark">
+Un remake de The Legend of Zelda : Wind Waker pour la W...	</a></div>
+</li>
+<li>
+<div class="topimage">
+<a href="http://www.gizmodo.fr/2013/01/23/linux-windows.html" title="Lien permanent vers Linux est bien plus utilisé que Windows !" rel="bookmark">
+<img width="126" height="100" src="http://www.gizmodo.fr/wp-content/uploads/2013/01/126x100xlinux-126x100.png.pagespeed.ic.5RkdONtlsn.png" class="attachment-top-thumb wp-post-image" alt="Linux" title="Linux"/>	</a>
+</div>
+<div class="toptitre"><a href="http://www.gizmodo.fr/2013/01/23/linux-windows.html" title="Lien permanent vers Linux est bien plus utilisé que Windows !" rel="bookmark">
+Linux est bien plus utilisé que Windows !	</a></div>
+</li>
+</ul>
+</div>
+</div>
+<div id="topAds">
+<div id='div-gpt-mpu-1'>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-mpu-1');});</script>
+</div>
+</div>
+</div>
+<div class="menu-header" id="topnav">
+<ul class="menu" id="menu-header">
+<li class="home"><a href="http://www.gizmodo.fr">Accueil</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11 " id="menu-item-11"><a href="http://www.gizmodo.fr/category/gizmodo-tech">TECH</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12 " id="menu-item-12"><a href="http://www.gizmodo.fr/category/gizmodo-buzz">BUZZ</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13 " id="menu-item-13"><a href="http://www.gizmodo.fr/category/gizmodo-next">NEXT</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14 " id="menu-item-14"><a href="http://www.gizmodo.fr/category/gizmodo-games">GAMES</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15 " id="menu-item-15"><a href="http://www.gizmodo.fr/category/gizmodo-style">STYLE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16 " id="menu-item-16"><a href="http://www.gizmodo.fr/category/gizmodo-moov">MOOV</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17 " id="menu-item-17"><a href="http://www.gizmodo.fr/category/gizmodo-miss">MISS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18 " id="menu-item-18"><a href="http://deals.gizmodo.fr">DEALS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19 " id="menu-item-19"><a href="http://www.gizmodo.fr/category/gizmodo-tv">TV</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20" id="menu-item-20"><a style="color: #03839E;" href="http://www4.smartadserver.com/call/cliccommand/5963966/123456789?">QUIZ</a><img src="http://www4.smartadserver.com/call/pubimppixel/5963966/123456789?"></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="sideandwrap">
+<div id="sideBar" class="widget-area" role="complementary">
+<ul class="xoxo">
+<li id="text-17" class="widget-container widget_text"><div class="widget-titles">Rejoignez-nous sur les réseaux !</div>	<div class="textwidget"><div class="fb-like-box" data-href="http://www.facebook.com/gizmodofrance" data-width="292" data-show-faces="true" data-stream="false" data-header="false"></div>
+<a href="https://twitter.com/gizmodofr" class="twitter-follow-button" data-show-count="false" data-lang="fr" data-size="large">Suivre @gizmodofr</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+</li><div style="text-align:center;width:336px;margin:0 auto 10px">
+<div id='div-gpt-mpu-2'>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-mpu-2');});</script>
+</div>
+</div><li id="text-10" class="widget-container widget_text"><div class="widget-titles">Gizmodo TV</div>	<div class="textwidget"><script type="text/javascript" src="http://fr.itweb.tv/mymodule/4818421/"></script></div>
+</li><li id="itjobs-3" class="widget-container widget_itjobs"><div class="widget-titles">Offres d'emploi</div><div class="entry clearfix lines top">
+<div style="line-height: 1.25em;"><a href="http://emploi.silicon.fr/125950/ingnieur-systme-windows-hf/">INGÉNIEUR SYSTÈME WINDOWS (H/F)</a></div>
+<p style="margin-top: 3px; font-size: 11px;">chez <b>CONNECTT</b>, Fontenay-sous-Bois</p>
+<div style="clear: both;"></div>
+</div>
+<div class="entry clearfix lines">
+<div style="line-height: 1.25em;"><a href="http://emploi.silicon.fr/125945/ingnieur-tudes-j2ee-hf/">INGÉNIEUR ÉTUDES J2EE (H/F)</a></div>
+<p style="margin-top: 3px; font-size: 11px;">chez <b>Page Personnel</b>, Lille</p>
+<div style="clear: both;"></div>
+</div>
+<div class="entry clearfix lines">
+<div style="line-height: 1.25em;"><a href="http://emploi.silicon.fr/125956/informaticien-hf/">INFORMATICIEN (H/F)</a></div>
+<p style="margin-top: 3px; font-size: 11px;">chez <b>SOFITEX</b>, Montbéliard</p>
+<div style="clear: both;"></div>
+</div>
+<div class="entry clearfix lines">
+<div style="line-height: 1.25em;"><a href="http://emploi.silicon.fr/125934/assistant-chef-de-projet-hf/">ASSISTANT CHEF DE PROJET (H/F)</a></div>
+<p style="margin-top: 3px; font-size: 11px;">chez <b>Expectra</b>, Aix-en-Provence</p>
+<div style="clear: both;"></div>
+</div>
+<div class="entry clearfix lines bottom">
+<div style="line-height: 1.25em;"><a href="http://emploi.silicon.fr/126029/infrastructure-middlware-team-manager-client-final-hf/">Infrastructure middlware team manager (client final) H/F</a></div>
+<p style="margin-top: 3px; font-size: 11px;">chez <b>emagine - GFT Group</b>, la Defense (92)</p>
+<div style="clear: both;"></div>
+</div>
+<div style="text-align: right;">
+&nbsp;<strong><a href="http://emploi.silicon.fr">» Plus d'emplois ...</a></strong>
+</div>
+</li>
+<div id="recent-quiz" class="widget-container box altern clearfix widget_recent_entries">
+<div class="section-title"><h3 class="title">QUIZ</h3></div>
+<p style="text-align: left; margin-bottom: 7px;"><strong>Les derniers quiz :</strong></p>
+<ul>
+<li><a href="http://quiz.itespresso.fr/maitrisez-vous-le-langage-high-tech--75-0-0.html" title="Truffé de barbarismes, anglicismes et néologismes, le vocabulaire de la high-tech ne manque pas de faux-amis et autres termes obscurs. Connaissez-vous bien ce langage pas toujours si facile à appréhender ?">Maitrisez-vous le langage high-tech ?</a></li><li><a href="http://quiz.itespresso.fr/etes-vous-au-point-sur-le-consumer-electronics-show--74-0-0.html" title="Chaque année, au mois de janvier, les géants des high-tech les amoureux des hautes technologies se réunissent pour le Consumer Electronic Show. Edition après édition, cette grand-messe geek a su se faire un nom en écrivant l'histoire de l'électronique grand public. Et vous, êtes-vous à la page sur le CES ?">Etes-vous au point sur le Consumer Electronics Show ?</a></li><li><a href="http://quiz.itespresso.fr/connaissez-vous-archos--72-0-0.html" title="Dans un univers high-tech dominé par les géants américains et asiatiques tel Apple ou Samsung, on aurait vite tendance à oublier que la France possède aussi un acteur qui compte dans ce domaine : Archos. Cette PME française parmi les plus actives dans le domaine de la haute technologie a en effet su trouver sa place au fil des années, en apportant de nombreuses innovations souvent reprises par ses concurrents. Connaissez-vous bien l'histoire et les produits d'Archos ?">Connaissez-vous Archos ?</a></li><li><a href="http://quiz.itespresso.fr/connaissez-vous-l-histoire-d-apple--71-0-0.html" title="En l'espace d'une trentaine d'années, Apple est devenue l'entreprise la plus riche du monde. Une success story qui laisse rêveur tous les entrepreneurs de la planète et dont l'explication se résume en un mot : innovation ! Et une bonne dose de flair... Connaissez-vous bien la brillante histoire d'Apple ?">Connaissez-vous l'histoire d'Apple ?</a></li><li><a href="http://quiz.itespresso.fr/etes-vous-incollable-sur-la-publicite-en-ligne--70-0-0.html" title="Depuis sa naissance dans les années 90, la publicité en ligne n'a cessé de gagner en importance. Véritable clé de voûte de l'économie numérique, la publicité en ligne brasse chaque année plusieurs milliards d'euros et reste plus que jamais la principale source de revenus de milliers d'éditeurs de contenus sur Internet. Connaissez-vous sur le bout des doigts ce secteur essentiel ?">Etes-vous incollable sur la publicité en ligne ?</a></li>
+</ul>
+<a style="text-align: left; margin-bottom: 7px;text-decoration: none; color: #3D3D3D" href="http://quiz.itespresso.fr"><strong>Voir tous les quiz disponibles</strong></a>
+</div>
+<div id="sidebarAds" style="padding: 0; border: none;">
+<script language="JavaScript" type="text/javascript" src="http://view.atdmt.com/SHF/jview/404474228/direct/01?click="></script>
+<noscript>
+<a href="http://clk.atdmt.com/SHF/go/404474228/direct/01/" target="_blank">
+<img border="0" src="http://view.atdmt.com/SHF/view/404474228/direct/01/"/>
+</a>
+</noscript>
+</div>
+<li id="rss-4" class="widget-container widget_rss"><div class="widget-titles"><a class='rsswidget' href='http://www.silicon.fr/feed' title='Suivez ce contenu par syndication RSS'><img style='border:0' width='14' height='14' src='http://www.gizmodo.fr/wp-includes/images/14x14xrss.png.pagespeed.ic.gNZGspHcah.png' alt='RSS'/></a> <a class='rsswidget' href='http://www.silicon.fr' title='Le site des Décideurs IT'>L&rsquo;actu Silicon</a></div><ul><li><a class='rsswidget' href='http://www.silicon.fr/microsoft-leve-le-voile-sur-la-generation-office-2013-tous-les-prix-83072.html' title='La suite Microsoft Office 2013 est maintenant disponible à la vente. Nous vous faisons un résumé de toutes les versions et prix connus à ce jour. [&hellip;]'>Microsoft lève le voile sur la génération Office 2013 : tous les prix</a> <cite>David Feugey</cite></li><li><a class='rsswidget' href='http://www.silicon.fr/david-charles-prixtel-les-mvno-font-de-la-marge-pour-les-operateurs-83062.html' title='Pour David Charles, président de Prixtel, l&#039;avenir des opérateurs mobiles virtuels passe par l&#039;accès aux infrastructures 4G. [&hellip;]'>David Charles (Prixtel) : « Les MVNO font de la marge pour les opérateurs »</a> <cite>Christophe Lagane</cite></li><li><a class='rsswidget' href='http://www.silicon.fr/lipad-128-go-est-confirme-par-apple-83069.html' title='Une nouvelle version de l’iPad, proposant 128 Go de stockage flash, est maintenant proposée par Apple. Reste à connaitre son prix de vente, inconnu pour l’heure. [&hellip;]'>L’iPad 128 Go est confirmé par Apple</a> <cite>David Feugey</cite></li><li><a class='rsswidget' href='http://www.silicon.fr/intel-presente-les-ssd-525-series-des-modules-flash-msata-performants-pour-ultrabooks-83060.html' title='Avec ses modules mSATA de nouvelle génération, Intel propose des périphériques de stockage aussi compacts que performants. La disponibilité des SSD 525 Series est immédiate. [&hellip;]'>Intel présente les SSD 525 Series, des modules flash mSATA performants pour ultrabooks</a> <cite>David Feugey</cite></li><li><a class='rsswidget' href='http://www.silicon.fr/la-4g-de-sfr-sempare-de-la-defense-83058.html' title='SFR inaugure son offre 4G sur Paris La Défense, premier centre d&#039;affaires européen. Paris intra-muros suivra dans le courant du second semestre. [&hellip;]'>La 4G de SFR s’empare de La Défense</a> <cite>Christophe Lagane</cite></li><li><a class='rsswidget' href='http://www.silicon.fr/apple-ios-6-1-etend-la-prise-en-charge-de-la-4g-mais-oublie-la-france-83057.html' title='Peu de nouveautés pour iOS 6.1, qui améliore son support de la 4G sans toutefois couvrir la France. Restent les corrections de bogues. [&hellip;]'>Apple iOS 6.1 étend la prise en charge de la 4G, mais oublie la France</a> <cite>David Feugey</cite></li><li><a class='rsswidget' href='http://www.silicon.fr/rd-leurope-mise-sur-le-graphene-et-se-donne-10-ans-83054.html' title='Le programme FET de la Commission européenne a retenu le graphène, successeur du silicium, parmi les deux projets FET de technologies émergentes. [&hellip;]'>R&amp;D : L’Europe mise sur le graphène et se donne 10 ans</a> <cite>Yves Grandmontagne</cite></li><li><a class='rsswidget' href='http://www.silicon.fr/google-futur-operateur-mobile-83055.html' title='Google veut construire un mini réseau mobile autour du Googleplex. À des fin expérimentales dans un premier temps. [&hellip;]'>Google futur opérateur mobile ?</a> <cite>Christophe Lagane</cite></li><li><a class='rsswidget' href='http://www.silicon.fr/hp-va-proposer-un-chromebook-14-pouces-83052.html' title='Le constructeur HP cède à l’appel des Chromebooks. Une machine 14 pouces ultra économique serait en préparation. [&hellip;]'>HP va proposer un Chromebook 14 pouces</a> <cite>David Feugey</cite></li><li><a class='rsswidget' href='http://www.silicon.fr/bouygues-telecom-maintient-son-offre-byou-2424-83051.html' title='Fort d&#039;un probable succès et d’une concurrence active, Bouygues Telecom maintient son offre B&amp;You voix illimitée à moins de 10 euros. [&hellip;]'>Bouygues Telecom maintient son offre B&amp;You 24/24</a> <cite>La Rédaction</cite></li></ul></li><li id="tag_cloud-3" class="widget-container widget_tag_cloud"><div class="widget-titles">Tags</div><div class="tagcloud"><a href='http://www.gizmodo.fr/tag/3d' class='tag-link-556' title='193 sujets' style='font-size: 9.6697247706422pt;'>3D</a>
+<a href='http://www.gizmodo.fr/tag/android' class='tag-link-126' title='819 sujets' style='font-size: 17.633027522936pt;'>Android</a>
+<a href='http://www.gizmodo.fr/tag/apple' class='tag-link-61' title='1 771 sujets' style='font-size: 22pt;'>Apple</a>
+<a href='http://www.gizmodo.fr/tag/appli' class='tag-link-204' title='270 sujets' style='font-size: 11.467889908257pt;'>appli</a>
+<a href='http://www.gizmodo.fr/tag/art' class='tag-link-1612' title='150 sujets' style='font-size: 8.256880733945pt;'>art</a>
+<a href='http://www.gizmodo.fr/tag/chine' class='tag-link-996' title='164 sujets' style='font-size: 8.7706422018349pt;'>Chine</a>
+<a href='http://www.gizmodo.fr/tag/cinema' class='tag-link-1268' title='233 sujets' style='font-size: 10.697247706422pt;'>cinéma</a>
+<a href='http://www.gizmodo.fr/tag/concept' class='tag-link-29' title='175 sujets' style='font-size: 9.1559633027523pt;'>Concept</a>
+<a href='http://www.gizmodo.fr/tag/design' class='tag-link-76' title='153 sujets' style='font-size: 8.3853211009174pt;'>design</a>
+<a href='http://www.gizmodo.fr/tag/espace' class='tag-link-1065' title='214 sujets' style='font-size: 10.183486238532pt;'>espace</a>
+<a href='http://www.gizmodo.fr/tag/facebook' class='tag-link-309' title='599 sujets' style='font-size: 15.963302752294pt;'>Facebook</a>
+<a href='http://www.gizmodo.fr/tag/gizmodocom' class='tag-link-19430' title='150 sujets' style='font-size: 8.256880733945pt;'>gizmodocom</a>
+<a href='http://www.gizmodo.fr/tag/google' class='tag-link-421' title='950 sujets' style='font-size: 18.532110091743pt;'>Google</a>
+<a href='http://www.gizmodo.fr/tag/htc' class='tag-link-1051' title='252 sujets' style='font-size: 11.082568807339pt;'>HTC</a>
+<a href='http://www.gizmodo.fr/tag/internet' class='tag-link-24' title='185 sujets' style='font-size: 9.4128440366972pt;'>internet</a>
+<a href='http://www.gizmodo.fr/tag/ios' class='tag-link-5490' title='367 sujets' style='font-size: 13.266055045872pt;'>iOS</a>
+<a href='http://www.gizmodo.fr/tag/ipad' class='tag-link-695' title='776 sujets' style='font-size: 17.376146788991pt;'>iPad</a>
+<a href='http://www.gizmodo.fr/tag/iphone' class='tag-link-63' title='877 sujets' style='font-size: 18.018348623853pt;'>iphone</a>
+<a href='http://www.gizmodo.fr/tag/iphone-4' class='tag-link-3112' title='178 sujets' style='font-size: 9.1559633027523pt;'>iPhone 4</a>
+<a href='http://www.gizmodo.fr/tag/iphone-5' class='tag-link-7638' title='215 sujets' style='font-size: 10.183486238532pt;'>iPhone 5</a>
+<a href='http://www.gizmodo.fr/tag/japon' class='tag-link-448' title='165 sujets' style='font-size: 8.7706422018349pt;'>Japon</a>
+<a href='http://www.gizmodo.fr/tag/jeux-video' class='tag-link-3123' title='231 sujets' style='font-size: 10.697247706422pt;'>jeux vidéo</a>
+<a href='http://www.gizmodo.fr/tag/lego' class='tag-link-161' title='244 sujets' style='font-size: 10.954128440367pt;'>Lego</a>
+<a href='http://www.gizmodo.fr/tag/lg' class='tag-link-943' title='195 sujets' style='font-size: 9.6697247706422pt;'>LG</a>
+<a href='http://www.gizmodo.fr/tag/microsoft' class='tag-link-66' title='712 sujets' style='font-size: 16.862385321101pt;'>Microsoft</a>
+<a href='http://www.gizmodo.fr/tag/montre' class='tag-link-1232' title='162 sujets' style='font-size: 8.6422018348624pt;'>montre</a>
+<a href='http://www.gizmodo.fr/tag/nasa' class='tag-link-889' title='211 sujets' style='font-size: 10.183486238532pt;'>NASA</a>
+<a href='http://www.gizmodo.fr/tag/nintendo' class='tag-link-79' title='241 sujets' style='font-size: 10.825688073394pt;'>Nintendo</a>
+<a href='http://www.gizmodo.fr/tag/nokia' class='tag-link-288' title='316 sujets' style='font-size: 12.366972477064pt;'>Nokia</a>
+<a href='http://www.gizmodo.fr/tag/pc' class='tag-link-93' title='183 sujets' style='font-size: 9.2844036697248pt;'>pc</a>
+<a href='http://www.gizmodo.fr/tag/photo' class='tag-link-358' title='205 sujets' style='font-size: 9.9266055045872pt;'>photo</a>
+<a href='http://www.gizmodo.fr/tag/robot' class='tag-link-114' title='451 sujets' style='font-size: 14.422018348624pt;'>robot</a>
+<a href='http://www.gizmodo.fr/tag/rumeur' class='tag-link-2832' title='296 sujets' style='font-size: 11.981651376147pt;'>rumeur</a>
+<a href='http://www.gizmodo.fr/tag/samsung' class='tag-link-134' title='652 sujets' style='font-size: 16.348623853211pt;'>Samsung</a>
+<a href='http://www.gizmodo.fr/tag/science' class='tag-link-23' title='163 sujets' style='font-size: 8.6422018348624pt;'>Science</a>
+<a href='http://www.gizmodo.fr/tag/smartphone' class='tag-link-1462' title='176 sujets' style='font-size: 9.1559633027523pt;'>smartphone</a>
+<a href='http://www.gizmodo.fr/tag/sony' class='tag-link-337' title='434 sujets' style='font-size: 14.165137614679pt;'>Sony</a>
+<a href='http://www.gizmodo.fr/tag/star-wars' class='tag-link-131' title='312 sujets' style='font-size: 12.366972477064pt;'>Star Wars</a>
+<a href='http://www.gizmodo.fr/tag/steve-jobs' class='tag-link-115' title='214 sujets' style='font-size: 10.183486238532pt;'>Steve Jobs</a>
+<a href='http://www.gizmodo.fr/tag/tablette' class='tag-link-102' title='479 sujets' style='font-size: 14.678899082569pt;'>tablette</a>
+<a href='http://www.gizmodo.fr/tag/twitter' class='tag-link-127' title='262 sujets' style='font-size: 11.339449541284pt;'>Twitter</a>
+<a href='http://www.gizmodo.fr/tag/video' class='tag-link-1597' title='244 sujets' style='font-size: 10.954128440367pt;'>vidéo</a>
+<a href='http://www.gizmodo.fr/tag/windows-8' class='tag-link-2447' title='145 sujets' style='font-size: 8pt;'>Windows 8</a>
+<a href='http://www.gizmodo.fr/tag/xbox-360' class='tag-link-1255' title='183 sujets' style='font-size: 9.2844036697248pt;'>XBox 360</a>
+<a href='http://www.gizmodo.fr/tag/etude' class='tag-link-2154' title='195 sujets' style='font-size: 9.6697247706422pt;'>étude</a></div>
+</li><li id="rss-3" class="widget-container widget_rss"><div class="widget-titles"><a class='rsswidget' href='http://www.itespresso.fr/feed' title='Suivez ce contenu par syndication RSS'><img style='border:0' width='14' height='14' src='http://www.gizmodo.fr/wp-includes/images/14x14xrss.png.pagespeed.ic.gNZGspHcah.png' alt='RSS'/></a> <a class='rsswidget' href='http://www.itespresso.fr' title='L’info IT pour les TPE-PME'>L&rsquo;actu Itespresso</a></div><ul><li><a class='rsswidget' href='http://www.itespresso.fr/microsoft-office-2013-recapitulatif-offres-61281.html' title='La suite Microsoft Office 2013 est disponible. Entre versions dématérialisées, offres hébergées et ventes à l&#039;unité sur support physique, tour d&#039;horizon des prestations et tarifs. [&hellip;]'>Microsoft Office 2013 : récapitulatif des offres</a></li><li><a class='rsswidget' href='http://www.itespresso.fr/ipad-128-go-joue-cache-cache-61271.html' title='Repéré au hasard d&#039;une ligne de code dans les tréfonds d&#039;iOS 6.1, apparu furtivement sur le site Internet d&#039;un détaillant, il alimentait depuis lors le qu&#039;en-dira-t-on, à juste titre : l&#039;iPad 128 Go est bien dans les cartons d&#039;Apple. [&hellip;]'>L’iPad 128 Go ne joue plus à cache-cache</a></li><li><a class='rsswidget' href='http://www.itespresso.fr/a-loccasion-de-marketing-2013-tradelab-lance-tradelab-branding-desk-video-61278.html' title='Une nouvelle solution Branding voit le jour chez Tradelab afin d’aider les annonceurs à déployer de véritables campagnes branding en RTB. Nous avons pu interviewer Charles Gros, Directeur associé, notamment à ce sujet… [&hellip;]'>A l’occasion d’E-Marketing 2013, Tradelab lance Tradelab Branding Desk (VIDEO)</a></li><li><a class='rsswidget' href='http://www.itespresso.fr/julien-parrou-actiplay-sur-e-marketing-2013-nous-mettons-le-jeu-au-service-du-marketing-61276.html' title='Le PDG et fondateur d’Actiplay évoque face à Gérard Clech les buts et les moyens mis en œuvre par sa société pour mettre les jeux en ligne au service du marketing des entreprises clientes. [&hellip;]'>Julien Parrou (Actiplay) sur E-Marketing 2013 : « Nous mettons le jeu au service du marketing »</a></li><li><a class='rsswidget' href='http://www.itespresso.fr/jean-paul-lieux-dolist-sur-e-marketing-2013-il-y-a-5-grands-facteurs-pour-assurer-la-delivrabilite-dun-email-61273.html' title='Directeur Associé de DOLIST, Jean-Paul LIEUX était sur le salon E-Marketing Paris pour évoquer les problématiques de délivrabilité des emails. [&hellip;]'>Jean-Paul Lieux, Dolist sur E-MARKETING 2013 : « Il y a 5 grands facteurs pour assurer la délivrabilité d’un email »</a></li></ul></li><li id="widget-commented-posts-4" class="widget-container widget-commented-posts diagram_arrows  box diagram"><div class="section-title big-dotted"><h3 class="title">Articles les plus commentés</div>	<div class="dia_barre barre1">
+<h2 class="title"><a href='http://www.gizmodo.fr/2013/01/15/apple-microsoft-surface.html'>Apple n&rsquo;est plus cool, et les ados veulent une Microsoft Surface</a></h2>
+<div class="vcenter"><span><a href="http://www.gizmodo.fr/2013/01/15/apple-microsoft-surface.html#comments">127</a>
+</span></div>
+</div>
+<div class="dia_barre barre2">
+<h2 class="title"><a href='http://www.gizmodo.fr/2013/01/04/nexus-7-49e-sfr.html'>La Nexus 7 à 49€ chez SFR</a></h2>
+<div class="vcenter"><span><a href="http://www.gizmodo.fr/2013/01/04/nexus-7-49e-sfr.html#comments">120</a>
+</span></div>
+</div>
+<div class="dia_barre barre3">
+<h2 class="title"><a href='http://www.gizmodo.fr/2013/01/20/jeux-video-france-2-fait-peur-france-2-est-game-over.html'>Jeux vidéo : France 2 fait peur, France 2 est game-over</a></h2>
+<div class="vcenter"><span><a href="http://www.gizmodo.fr/2013/01/20/jeux-video-france-2-fait-peur-france-2-est-game-over.html#comments">91</a>
+</span></div>
+</div>
+<div class="dia_barre barre4">
+<h2 class="title"><a href='http://www.gizmodo.fr/2013/01/01/doigts-trop-gros-iphone.html'>Avoir les doigts trop gros pour l&rsquo;iPhone, c&rsquo;est &laquo;&nbsp;possible&nbsp;&raquo;</a></h2>
+<div class="vcenter"><span><a href="http://www.gizmodo.fr/2013/01/01/doigts-trop-gros-iphone.html#comments">90</a>
+</span></div>
+</div>
+<div class="dia_barre barre5">
+<h2 class="title"><a href='http://www.gizmodo.fr/2013/01/21/atterrissages-lune.html'>Voilà pourquoi on ne peut pas remettre en cause les atterrissages sur la lune</a></h2>
+<div class="vcenter"><span><a href="http://www.gizmodo.fr/2013/01/21/atterrissages-lune.html#comments">83</a>
+</span></div>
+</div>
+</li><li id="eventswidget-3" class="widget-container widget-events listed_entries teasers_box altern box"><div class="widget-titles">Agenda Gizmodo</div>	<div class='entry clearfix'>
+<div class="title_wrap">
+<h3 class="title"><a href="http://www.gizmodo.fr/evenements/paris-manga-sci-fi-show-2013">PARIS MANGA & SCI-FI SHOW 2013</a></h3>
+</div>
+<div class="meta">
+<div class="meta-datetime bullets">
+Du Samedi 09 février 2013	au Dimanche 10 février 2013	<br/>
+</div>
+</div>
+</div>
+<div class='entry clearfix'>
+<div class="title_wrap">
+<h3 class="title"><a href="http://www.gizmodo.fr/evenements/salon-solutions-linuxopen-source-2013">Salon Solutions Linux/Open Source 2013</a></h3>
+</div>
+<div class="meta">
+<div class="meta-datetime bullets">
+Du Mardi 28 mai 2013	au Mercredi 29 mai 2013	<br/>
+</div>
+</div>
+</div>
+<div><a href="http://www.gizmodo.fr/evenements">Voir tous les événements</a></div>
+</li><li id="text-16" class="widget-container widget_text"><div class="widget-titles">Silicon TV</div>	<div class="textwidget"><script type="text/javascript" src="http://tv.silicon.fr/mymodule/5053302/"></script></div>
+</li>	</ul>
+</div>
+<div id="wrap" role="main">
+<div id="megaAds">
+<div id='div-gpt-mega-1'>
+<script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-mega-1');});</script>
+</div>
+</div>
+<div id="post-196967" class="post-single" itemscope itemtype="http://schema.org/Article">
+<div class="sideLeft">
+<h1 class="entry-titles" itemprop="name">Enfin une jolie imprimante 3D de salon</h1>
+<div class="entry-info"><span>Par </span><a href="http://www.gizmodo.fr/author/frgiz2" title="Articles par Norédine" rel="author">Norédine</a>, <span class="entry-date">le <a href="http://www.gizmodo.fr/2013/01/17/imprimante-3d-salon-cubify.html" title="21:50" rel="bookmark">17 janvier 2013</a> à <a href="http://www.gizmodo.fr/2013/01/17/imprimante-3d-salon-cubify.html" title="21:50" rel="bookmark">21:50</a></span></div>
+<span itemprop="url" content="http://www.gizmodo.fr/2013/01/17/imprimante-3d-salon-cubify.html"></span>
+<span itemprop="image" content="http://www.gizmodo.fr/wp-content/uploads/2013/01/cubify-imprimante-3d-1-150x150.jpg">
+</span>
+<span itemprop="category" content="Gizmodo Tech">
+</span>
+<div class="sideRight">
+<div class="comments_single"><a href="http://www.gizmodo.fr/2013/01/17/imprimante-3d-salon-cubify.html#comments" rel="nofollow" title="Commentaire sur Enfin une jolie imprimante 3D de salon">13 </a></div>	<div class="share-google"><g:plusone size="tall" href="http://www.gizmodo.fr/2013/01/17/imprimante-3d-salon-cubify.html"></g:plusone></div>
+<div class="share-facebook"><fb:like href="http://www.gizmodo.fr/2013/01/17/imprimante-3d-salon-cubify.html" layout="box_count" show_faces="true" width="100" font=""></fb:like>	</div>
+<div class="share-twitter"><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>	</div>
+</div>
+<div class="entry-content">
+<div itemprop="description"><p><a href="http://www.gizmodo.fr/2013/01/17/imprimante-3d-salon-cubify.html/cubify-imprimante-3d-1" rel="attachment wp-att-196968"><img class="alignright size-medium wp-image-196968" title="cubify imprimante 3d 1" src="http://www.gizmodo.fr/wp-content/uploads/2013/01/300x168xcubify-imprimante-3d-1-300x168.jpg.pagespeed.ic.kLWM0rybe8.jpg" alt="cubify imprimante 3d" width="300" height="168"/></a>Les <a href="http://www.gizmodo.fr/2012/11/27/imprimante-3d-papier-prend-couleurs.html" target="_blank">imprimantes 3D</a> de Cubify ressemblent à des machines à café croisées avec des <a href="http://www.gizmodo.fr/2010/02/15/machine-a-coudre-le-jour-lampe-la-nuit.html" target="_blank">machines à coudre</a> et c’est exactement ce qu’il faut : elles s’intègreront parfaitement avec votre intérieur. Et c’est peut-être ce qui fera de cette imprimante 3D, une des premières à trôner dans une pièce de votre maison.<span id="more-196967"></span></p>
+<p>La Cube est un peu l’opposée de l’imprimante 3D de Makerbot, la Replicator qui est une bête industrielle de 15 kg. La Cube pèse moins de 9kg et devrait bien passer au milieu de vos autres appareils. De plus, elle coûte seulement 1400$ (à comparer avec les 1750$ de la Replicator). Pour 50$ supplémentaire, vous avez aussi le logiciel de design de Cubify pour fabriquer vos créations 3D. (Sérieusement : ils devraient offrir le logiciel).</p>
+<p><a href="http://www.gizmodo.fr/wp-content/uploads/2013/01/cubify-imprimante-3d.jpg"><img class="alignnone size-medium wp-image-196969" title="cubify imprimante 3d" src="http://www.gizmodo.fr/wp-content/uploads/2013/01/273x300xcubify-imprimante-3d-273x300.jpg.pagespeed.ic.AvK9fz1iGk.jpg" alt="" width="273" height="300"/></a></p>
+<p>Cubify a certainement la bonne compréhension des attentes des acheteurs de ce produit. D’ailleurs, Chuck Hull, le fondateur de Cubify, est la première personne à avoir breveté une imprimante 3D en 1983 ! Il lui a fallu près de 30 ans pour voir son produit sur le marché. Et la Cube a vraiment l’air de tenir ses promesses. Vous ne la verriez même pas dans l’appartement d’un ami. Et pourtant, il ressemble à ça le futur, non ? [<a href="http://www.fastcodesign.com/1671656/cubify-wants-to-domesticate-the-3-d-printer">Cubify</a> via <a href="http://cubify.com/cube/store.aspx">FastCo</a>]</p>
+</div>
+<div class="entry-list-tag">
+<span class="tag-links">
+<strong>Tags : </strong> <span class="hash">#</span><a href="http://www.gizmodo.fr/tag/chuck-hull" rel="tag">Chuck Hull</a>, <span class="hash">#</span><a href="http://www.gizmodo.fr/tag/cubify" rel="tag">Cubify</a>, <span class="hash">#</span><a href="http://www.gizmodo.fr/tag/imprimante-3d" rel="tag">imprimante 3D</a>	</span>
+</div>
+<fb:like href="http://www.gizmodo.fr/2013/01/17/imprimante-3d-salon-cubify.html" show_faces="true" send="true" width="495" action="recommend" font=""></fb:like>
+<ul class="nextPreviousPost">
+<li class="previous"><a href="http://www.gizmodo.fr/2013/01/17/chambre-paris.html" rel="prev">&laquo; Article précédent</a></li>
+<li class="next"><a href="http://www.gizmodo.fr/2013/01/17/fauteuil-boule-poil-monstrueusement-poilu.html" rel="next">Article suivant &raquo;</a></li>
+</ul>
+<div id="ligatus" class="single" style="display:inline-block;overflow: hidden; ">
+<script type="text/javascript" pagespeed_no_defer="true">var src='http://a.ligatus.com/?ids=29495&t=js';document.write('<scr'+'ipt src="'+src+'"></scr'+'ipt>');</script>
+<div class="blank"></div>
+</div>
+<br/><br/>
+<div class="last_silicon">
+<div class="last_title">À lire aussi</div>
+<ul>
+<li class="first">
+<div class="thumb_silicon">
+<img src="http://www.silicon.fr/wp-content/uploads/2012/07/Marissa-Mayer-370x231.jpg">
+</div>
+<div class="title_silicon">
+<a href="http://www.silicon.fr/yahoo-reste-dans-le-vert-merci-marissa-83050.html">
+Yahoo! reste dans le vert : merci Marissa ?</a>
+</div>
+</li>
+<li>
+<div class="thumb_silicon">
+<img src="http://www.silicon.fr/wp-content/uploads/2012/05/Google.png">
+</div>
+<div class="title_silicon">
+<a href="http://www.silicon.fr/google-futur-operateur-mobile-83055.html">
+Google futur opérateur mobile ?</a>
+</div>
+</li>
+<li>
+<div class="thumb_silicon">
+<img src="http://www.silicon.fr/wp-content/uploads/2012/06/iOS-6-vue-densemble-370x277.jpg">
+</div>
+<div class="title_silicon">
+<a href="http://www.silicon.fr/apple-ios-6-1-etend-la-prise-en-charge-de-la-4g-mais-oublie-la-france-83057.html">
+Apple iOS 6.1 étend la prise en charge de la 4G, mais oublie la France</a>
+</div>
+</li>
+<li>
+<div class="thumb_silicon">
+<img src="http://www.silicon.fr/wp-content/uploads/2013/01/LifeSize-Georges-Millet-icon-600-370x298.jpg">
+</div>
+<div class="title_silicon">
+<a href="http://www.silicon.fr/lifesize-simplifie-a-lextreme-son-offre-de-videoconference-83042.html">
+LifeSize simplifie à l’extrême son offre de vidéoconférence</a>
+</div>
+</li>
+<li>
+<div class="thumb_silicon">
+<img src="http://www.silicon.fr/wp-content/uploads/2013/01/gizmo-board-developpement-amd.jpg">
+</div>
+<div class="title_silicon">
+<a href="http://www.silicon.fr/gizmo-board-developpement-amd-83021.html">
+Gizmo Board : une plate-forme de développement AMD à 199 dollars</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="float: left;position: relative;width: 700px;">
+<div id="comments">
+<h3 id="comments-title">13 réponses à <em>Enfin une jolie imprimante 3D de salon</em></h3>
+<ol class="commentlist">
+<li class="comment even thread-even depth-1" id="li-comment-1193776">
+<div id="comment-1193776" class="threadWrapper">
+<div class="avatarspace">
+<div class="comment-author vcard">
+<img alt='' src='http://0.gravatar.com/avatar/2eea95e2d0409529801c644751217bbf?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32'/>	</div>
+<div class="comment-author-name">
+<div class="comment-author">
+iPomme	</div>
+<div>
+18 jan 2013, 2:41	</div>
+</div>
+</div>
+<div class="comment-body">
+<p>En tout cas, j&rsquo;aime bien le design. Mais trop chère, il va falloir attendre quelques années pour l&rsquo;avoir à un prix correct.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2013/01/17/imprimante-3d-salon-cubify.html?replytocom=1193776#respond' onclick='return addComment.moveForm("comment-1193776", "1193776", "respond", "196967")'>Répondre</a>	</div>
+</div>
+</div>
+</li>
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-1193794">
+<div id="comment-1193794" class="threadWrapper">
+<div class="avatarspace">
+<div class="comment-author vcard">
+<img alt='' src='http://1.gravatar.com/avatar/3f1ebf4c82082691b70ed4424ebf233e?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32'/>	</div>
+<div class="comment-author-name">
+<div class="comment-author">
+GuiGuiEnOr	</div>
+<div>
+18 jan 2013, 2:43	</div>
+</div>
+</div>
+<div class="comment-body">
+<p>&laquo;&nbsp;Sérieusement : ils devraient offrir le logiciel&nbsp;&raquo;. C&rsquo;était un début de blague ? Non parce que c&rsquo;était pas marrant. Et on veut pas de ton commentaire, on s&rsquo;en fout, &laquo;&nbsp;norédine&nbsp;&raquo;.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2013/01/17/imprimante-3d-salon-cubify.html?replytocom=1193794#respond' onclick='return addComment.moveForm("comment-1193794", "1193794", "respond", "196967")'>Répondre</a>	</div>
+</div>
+</div>
+</li>
+<li class="comment even thread-even depth-1" id="li-comment-1195917">
+<div id="comment-1195917" class="threadWrapper">
+<div class="avatarspace">
+<div class="comment-author vcard">
+<img alt='' src='http://1.gravatar.com/avatar/b42385157ffa7008dc0a4738035761c7?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32'/>	</div>
+<div class="comment-author-name">
+<div class="comment-author">
+Yleven	</div>
+<div>
+18 jan 2013, 5:56	</div>
+</div>
+</div>
+<div class="comment-body">
+<p>Le tient non plus ont en veut pas !!!</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2013/01/17/imprimante-3d-salon-cubify.html?replytocom=1195917#respond' onclick='return addComment.moveForm("comment-1195917", "1195917", "respond", "196967")'>Répondre</a>	</div>
+</div>
+</div>
+</li>
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-1196972">
+<div id="comment-1196972" class="threadWrapper">
+<div class="avatarspace">
+<div class="comment-author vcard">
+<img alt='' src='http://0.gravatar.com/avatar/ef242c57d628cd5cd4b46118c6abc210?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32'/>	</div>
+<div class="comment-author-name">
+<div class="comment-author">
+soo	</div>
+<div>
+18 jan 2013, 8:01	</div>
+</div>
+</div>
+<div class="comment-body">
+<p>+1 Yleven<br/>
+casse toi pov&rsquo; con de guigui en or</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2013/01/17/imprimante-3d-salon-cubify.html?replytocom=1196972#respond' onclick='return addComment.moveForm("comment-1196972", "1196972", "respond", "196967")'>Répondre</a>	</div>
+</div>
+</div>
+</li>
+<li class="comment even thread-even depth-1" id="li-comment-1197017">
+<div id="comment-1197017" class="threadWrapper">
+<div class="avatarspace">
+<div class="comment-author vcard">
+<img alt='' src='http://1.gravatar.com/avatar/1e58eb68dba8707515ffd2b1c78676a6?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32'/>	</div>
+<div class="comment-author-name">
+<div class="comment-author">
+Insomnia	</div>
+<div>
+18 jan 2013, 8:05	</div>
+</div>
+</div>
+<div class="comment-body">
+<p>Guigui, pour le prix de l&rsquo;appareil, vendre 50€ le logiciel c&rsquo;est limite se foutre de la gueule du client, ça aurai du etre fournit avec&#8230;<br/>
+Le prix commence à vraiment diminuer mais il faut regarder le prix de la matière&#8230;</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2013/01/17/imprimante-3d-salon-cubify.html?replytocom=1197017#respond' onclick='return addComment.moveForm("comment-1197017", "1197017", "respond", "196967")'>Répondre</a>	</div>
+</div>
+</div>
+</li>
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-1197179">
+<div id="comment-1197179" class="threadWrapper">
+<div class="avatarspace">
+<div class="comment-author vcard">
+<img alt='' src='http://1.gravatar.com/avatar/db53aa5d9dd4c0fc8ed18170afa95c76?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32'/>	</div>
+<div class="comment-author-name">
+<div class="comment-author">
+thunderpx	</div>
+<div>
+18 jan 2013, 8:24	</div>
+</div>
+</div>
+<div class="comment-body">
+<p>Une simple imprimante à dépôt filamentaire, pas spécialement précise et il y aura des défauts sur les pièces créées.. par contre oui le design est sympa!</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2013/01/17/imprimante-3d-salon-cubify.html?replytocom=1197179#respond' onclick='return addComment.moveForm("comment-1197179", "1197179", "respond", "196967")'>Répondre</a>	</div>
+</div>
+</div>
+</li>
+<li class="comment even thread-even depth-1" id="li-comment-1197368">
+<div id="comment-1197368" class="threadWrapper">
+<div class="avatarspace">
+<div class="comment-author vcard">
+<img alt='' src='http://0.gravatar.com/avatar/2f3d0ee995bd7e7ac076bb0ac2e6b6f3?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32'/>	</div>
+<div class="comment-author-name">
+<div class="comment-author">
+Geeks	</div>
+<div>
+18 jan 2013, 8:45	</div>
+</div>
+</div>
+<div class="comment-body">
+<p>Et le prix de la matière pour pouvoir faire joujou?<br/>
+Je me rappel lors de mes études en prototypage il y a 2 ans que celle-ci valais de l&rsquo;or.</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2013/01/17/imprimante-3d-salon-cubify.html?replytocom=1197368#respond' onclick='return addComment.moveForm("comment-1197368", "1197368", "respond", "196967")'>Répondre</a>	</div>
+</div>
+</div>
+<ul class='children'>
+<li class="comment odd alt depth-2" id="li-comment-1198151">
+<div id="comment-1198151" class="threadWrapper">
+<div class="avatarspace">
+<div class="comment-author vcard">
+<img alt='' src='http://0.gravatar.com/avatar/cab8565465acb289fae060c11133863f?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32'/>	</div>
+<div class="comment-author-name">
+<div class="comment-author">
+jotheo	</div>
+<div>
+18 jan 2013, 9:51	</div>
+</div>
+</div>
+<div class="comment-body">
+<p>C&rsquo;est exactement la question que je me suis posée a la fin de l&rsquo;article. Combien coute la matière ?</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2013/01/17/imprimante-3d-salon-cubify.html?replytocom=1198151#respond' onclick='return addComment.moveForm("comment-1198151", "1198151", "respond", "196967")'>Répondre</a>	</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-1197624">
+<div id="comment-1197624" class="threadWrapper">
+<div class="avatarspace">
+<div class="comment-author vcard">
+<img alt='' src='http://0.gravatar.com/avatar/431bc20612cbb73a6fc08ac5cda24e06?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32'/>	</div>
+<div class="comment-author-name">
+<div class="comment-author">
+Ouam	</div>
+<div>
+18 jan 2013, 9:16	</div>
+</div>
+</div>
+<div class="comment-body">
+<p>Tout pourris le cube, y&rsquo;a bien moins cher et en open source, le cube est une machine complétement fermé avec des cartocuhes proprietaire, le prix des piéces des piéces de rechange est super cher&#8230;<br/>
+Y&rsquo;a des imprimantes 3D open source qui coutent 600€ toutes monté et calibré avec des résultat bien plus propre que le cube, et la maintenance on peut la faire seul sans se ruiner&#8230;.<br/>
+Les formats de fichier 3D sont propriétaire et leur logiciel ne permet pas de faire grand chose avec.</p>
+<p>Et je conchie les sociétés qui veulent faire de la tune en piochant dans l&rsquo;opensource.</p>
+<p><a href="http://richrap.blogspot.co.uk/2012_09_01_archive.html" rel="nofollow">http://richrap.blogspot.co.uk/2012_09_01_archive.html</a></p>
+<div class="reply">
+<a class='comment-reply-link' href='/2013/01/17/imprimante-3d-salon-cubify.html?replytocom=1197624#respond' onclick='return addComment.moveForm("comment-1197624", "1197624", "respond", "196967")'>Répondre</a>	</div>
+</div>
+</div>
+<ul class='children'>
+<li class="comment odd alt depth-2" id="li-comment-1200615">
+<div id="comment-1200615" class="threadWrapper">
+<div class="avatarspace">
+<div class="comment-author vcard">
+<img alt='' src='http://0.gravatar.com/avatar/871e80135c1e88c2087dd7e0abbcbf26?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32'/>	</div>
+<div class="comment-author-name">
+<div class="comment-author">
+meme	</div>
+<div>
+18 jan 2013, 11:45	</div>
+</div>
+</div>
+<div class="comment-body">
+<p>Des exemples Quam sur ces imprimantes à 600€ ?</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2013/01/17/imprimante-3d-salon-cubify.html?replytocom=1200615#respond' onclick='return addComment.moveForm("comment-1200615", "1200615", "respond", "196967")'>Répondre</a>	</div>
+</div>
+</div>
+<ul class='children'>
+<li class="comment even depth-3" id="li-comment-1202350">
+<div id="comment-1202350" class="threadWrapper">
+<div class="avatarspace">
+<div class="comment-author vcard">
+<img alt='' src='http://0.gravatar.com/avatar/01fd603face86e7cc0756af7a718391f?s=32&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32'/>	</div>
+<div class="comment-author-name">
+<div class="comment-author">
+BRSS	</div>
+<div>
+18 jan 2013, 13:52	</div>
+</div>
+</div>
+<div class="comment-body">
+<p>Pas sûr pour l&rsquo;Open-source (plutôt Open-hardware d&rsquo;ailleurs), mais dans la catégorie &laquo;&nbsp;pas cher&nbsp;&raquo; :<br/>
+<a href="http://www.solidoodle.com/" rel="nofollow">http://www.solidoodle.com/</a></p>
+<div class="reply">
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="comment odd alt thread-even depth-1" id="li-comment-1201400">
+<div id="comment-1201400" class="threadWrapper">
+<div class="avatarspace">
+<div class="comment-author vcard">
+<img alt='' src='http://1.gravatar.com/avatar/1261281734de9f4c3662828bafd7496c?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32'/>	</div>
+<div class="comment-author-name">
+<div class="comment-author">
+lecanar	</div>
+<div>
+18 jan 2013, 12:31	</div>
+</div>
+</div>
+<div class="comment-body">
+<p>Deux exemple d&rsquo;imprimantes 3D qui valent vraiment leur prix par rapport à cubify :</p>
+<p><a href="http://printrbot.com/" rel="nofollow">http://printrbot.com/</a> à 600 dollars pour la version +</p>
+<p>Et <a href="http://www.ultimaker.com/" rel="nofollow">http://www.ultimaker.com/</a> à 1500 euros tva comprise.</p>
+<p>Aucune des deux n&rsquo;utilise de cartouches au format proriétaire, elles ont une plus grande surface de travail et dans le cas de l&rsquo;utlimaker elle est plus rapide et à un bien meilleur niveau de précision.</p>
+<p>Un benchmark intéressant des imprimantes 3D d&rsquo;entrée de gamme est dispo ici : <a href="http://www.protoparadigm.com/blog/2012/02/comparing-3d-printers/" rel="nofollow">http://www.protoparadigm.com/blog/2012/02/comparing-3d-printers/</a></p>
+<div class="reply">
+<a class='comment-reply-link' href='/2013/01/17/imprimante-3d-salon-cubify.html?replytocom=1201400#respond' onclick='return addComment.moveForm("comment-1201400", "1201400", "respond", "196967")'>Répondre</a>	</div>
+</div>
+</div>
+</li>
+<li class="comment even thread-odd thread-alt depth-1" id="li-comment-1202702">
+<div id="comment-1202702" class="threadWrapper">
+<div class="avatarspace">
+<div class="comment-author vcard">
+<img alt='' src='http://1.gravatar.com/avatar/1038d518a2970087bbe8c1bb4847ffdc?s=32&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G' class='avatar avatar-32 photo' height='32' width='32'/>	</div>
+<div class="comment-author-name">
+<div class="comment-author">
+Fred	</div>
+<div>
+18 jan 2013, 14:41	</div>
+</div>
+</div>
+<div class="comment-body">
+<p>Excelent les imprimantes 3D pour les mademoiselles seules&#8230; ..plus besoin de vibrateur avec ca &#8230;</p>
+<div class="reply">
+<a class='comment-reply-link' href='/2013/01/17/imprimante-3d-salon-cubify.html?replytocom=1202702#respond' onclick='return addComment.moveForm("comment-1202702", "1202702", "respond", "196967")'>Répondre</a>	</div>
+</div>
+</div>
+</li>
+</ol>
+<script>window.onload=function(){FB.getLoginStatus(handleSessionResponse);}
+function handleSessionResponse(response){FB.api({method:'fql.query',query:'SELECT name, email FROM user WHERE uid='+FB.getSession().uid},function(response){var user=response[0];$('#author').val(user.name);$('#email').val(user.email);});}</script>
+<div id="respond">
+<h3 id="reply-title">Laisser un commentaire <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2013/01/17/imprimante-3d-salon-cubify.html#respond" style="display:none;">Annuler la réponse.</a></small></h3>
+<form action="http://www.gizmodo.fr/wp-comments-post.php" method="post" id="commentform">
+<p class="comment-notes">Votre adresse de messagerie ne sera pas publiée. Les champs obligatoires sont indiqués avec <span class="required">*</span></p>	<p class="comment-form-facebook" style="margin-bottom:26px"><fb:login-button show-faces="true" width="200" height="22" max-rows="1" perms="email">Se Connecter</fb:login-button></p>
+<p class="comment-form-author"><label for="author">Nom</label><span class="required"> (*)</span></p><input id="author" name="author" type="text" value=""/>
+<p class="comment-form-email"><label for="email">E-Mail</label><span class="required"> (*)</span></p><input id="email" name="email" type="text" value=""/>
+<p class="comment-form-url"><label for="url">Site web</label></p><input id="url" name="url" type="text" value=""/>
+<p class="comment-notes"></p>
+<p class="comment-form-comment"><label for="comment">Commentaire</label><textarea id="comment" name="82bb2-comment" cols="45" rows="8" aria-required="true"></textarea><textarea name="comment" style="display:none" rows="1" cols="1"></textarea></p>	<p class="form-allowed-tags">Vous pouvez utiliser ces balises et attributs <abbr title="HyperText Markup Language">HTML</abbr>&nbsp;: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>	<p class="form-submit">
+<input name="submit" type="submit" id="submit" value="Laisser un commentaire"/>
+<input type='hidden' name='comment_post_ID' value='196967' id='comment_post_ID'/>
+<input type='hidden' name='comment_parent' id='comment_parent' value='0'/>
+</p>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="menu-header" id="topnav-footer">
+<ul class="menu" id="menu-header">
+<li class="home"><a href="http://www.gizmodo.fr">Accueil</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11 " id="menu-item-11"><a href="http://www.gizmodo.fr/category/gizmodo-tech">TECH</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12 " id="menu-item-12"><a href="http://www.gizmodo.fr/category/gizmodo-buzz">BUZZ</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13 " id="menu-item-13"><a href="http://www.gizmodo.fr/category/gizmodo-next">NEXT</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14 " id="menu-item-14"><a href="http://www.gizmodo.fr/category/gizmodo-games">GAMES</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15 " id="menu-item-15"><a href="http://www.gizmodo.fr/category/gizmodo-style">STYLE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16 " id="menu-item-16"><a href="http://www.gizmodo.fr/category/gizmodo-moov">MOOV</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17 " id="menu-item-17"><a href="http://www.gizmodo.fr/category/gizmodo-miss">MISS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18 " id="menu-item-18"><a href="http://www.gizmodo.fr/category/gizmodo-deals">DEALS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19 " id="menu-item-19"><a href="http://www.gizmodo.fr/category/gizmodo-tv">TV</a></li>
+</ul>
+</div>
+<div id="footer" class="size">
+<div class="cols clearfix">
+<div class="col first" id="box-1">
+<h5 class="title"><span>Categories</span></h5>
+<div class="footer-first">
+<ul class="menu" id="menu-footer1">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146401" id="menu-item-146401"><a href="http://www.gizmodo.fr/category/gizmodo-tech">Gizmodo Tech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146402" id="menu-item-146402"><a href="http://www.gizmodo.fr/category/gizmodo-buzz">Gizmodo Buzz</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146403" id="menu-item-146403"><a href="http://www.gizmodo.fr/category/gizmodo-next">Gizmodo Next</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146404" id="menu-item-146404"><a href="http://www.gizmodo.fr/category/gizmodo-games">Gizmodo Games</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146405" id="menu-item-146405"><a href="http://www.gizmodo.fr/category/gizmodo-style">Gizmodo Style</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146406" id="menu-item-146406"><a href="http://www.gizmodo.fr/category/gizmodo-moov">Gizmodo Moov</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146408" id="menu-item-146408"><a href="http://www.gizmodo.fr/category/gizmodo-miss">Gizmodo Miss</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146407" id="menu-item-146407"><a href="http://www.gizmodo.fr/category/gizmodo-deals">Gizmodo Deals</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146409" id="menu-item-146409"><a href="http://www.gizmodo.fr/category/gizmodo-tv">Gizmodo TV</a></li>
+</ul>
+</div>
+</div>
+<div class="col" id="box-2">
+<h5 class="title">Site</h5>
+<div class="footer-second">
+<ul class="menu" id="menu-footer2">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146422" id="menu-item-146422"><a href="http://www.gizmodo.fr/contactez-la-redaction">Contactez la rédaction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146421" id="menu-item-146421"><a href="http://www.gizmodo.fr/contactez-la-regie">Contactez la régie</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146420" id="menu-item-146420"><a href="http://www.gizmodo.fr/inscription-a-la-newsletter">Inscription &agrave; la newsletter</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146418" id="menu-item-146418"><a href="http://www.gizmodo.fr/login">Acc&eacute;dez &agrave; votre compte</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146419" id="menu-item-146419"><a href="http://www.gizmodo.fr/charte_confiance">Charte de confiance - Mentions Légales</a></li>
+</ul>
+</div>
+</div>
+<div class="col" id="box-3">
+<h5 class="title">NetMediaEurope France</h5>
+<div class="footer-third">
+<ul class="menu" id="menu-footer3">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146421" id="menu-item-146421"><a href="http://www.itespresso.fr/">Itespresso</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146422" id="menu-item-146422"><a href="http://www.silicon.fr/">Silicon</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146423" id="menu-item-146423"><a href="http://www.theinquirer.fr/">The Inquirer</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146424" id="menu-item-146424"><a href="http://telecharger.itespresso.fr/">T&eacute;l&eacute;charger</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146425" id="menu-item-146425"><a href="http://www.channelbiz.fr/">ChannelBiz</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146426" id="menu-item-146426"><a href="http://www.techweekeurope.fr/">Techweek Europe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146427" id="menu-item-146427"><a href="http://dsi.silicon.fr/">SiliconDSI</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-146428" id="menu-item-146428"><a href="http://www.gizmodo.fr/">Gizmodo</a></li>
+</ul>
+</div>
+</div>
+<div class="col last" id="box-4">
+<h5 class="title">Gizmodo</h5>
+<div class="footer-fourth">
+<ul class="menu" id="menu-footer4">
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-146429" id="menu-item-146429"><a href="http://www.gizmodo.fr/">France</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146430" id="menu-item-146430"><a href="http://www.gizmodo.de">Allemagne</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146431" id="menu-item-146431"><a href="http://www.gizmodo.it">Italie</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146432" id="menu-item-146432"><a href="http://www.gizmodo.es">Espagne</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146491" id="menu-item-146491"><a href="http://www.gizmodo.com.au/">Australie</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146492" id="menu-item-146492"><a href="http://www.gizmodo.com.br/">Br&eacute;sil</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146493" id="menu-item-146493"><a href="http://gizmodo.pl/">Pologne</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146495" id="menu-item-146495"><a href="http://www.gizmodo.co.uk/">Angleterre</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146496" id="menu-item-146496"><a href="http://us.gizmodo.com/">&Eacute;tats Unis</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="copyright">
+<ul class="inline">
+<li>NetMediaEurope © Copyright 2013 Agence Presse Magazine. Tous droits réservés. <a target="blank" href="http://www.netmediaeurope.fr/">A propos de NetMediaEurope</a></li>
+<li>
+<script type="text/javascript" pagespeed_no_defer="true" src="http://s22.sitemeter.com/js/counter.js?site=s22frgizmodo"></script>
+<noscript>
+<a href="http://s22.sitemeter.com/stats.asp?site=s22frgizmodo" target="_top"><img src="http://s22.sitemeter.com/meter.asp?site=s22frgizmodo" alt="Site Meter" border="0"/></a>
+</noscript>
+</li>
+<li>
+<script type="text/javascript" pagespeed_no_defer="true" src="http://s15.sitemeter.com/js/counter.js?site=s15gizmodo"></script>
+<noscript>
+<a href="http://s15.sitemeter.com/stats.asp?site=s15gizmodo" target="_top"><img src="http://s15.sitemeter.com/meter.asp?site=s15gizmodo" alt="Site Meter" border="0"/></a>
+</noscript>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<script LANGUAGE="JavaScript">var _eStat_Whap_loaded=0;</script>
+<script LANGUAGE="JavaScript" SRC="http://w.estat.com/js/whap.js"></script>
+<script LANGUAGE="JavaScript">if(_eStat_Whap_loaded){eStatWhap.serial("800000207075");eStatWhap.send();}</script>
+<script type="text/javascript">PROBANCE_tracker.run(0);</script>
+<script src="http://www.gizmodo.fr/wp-content/plugins/contact-form-7/jquery.form.js,,qver==2.52,Mjm.qgcu8cADG8.js%20scripts.js,,qver==3.0.1,Mjm.PKiUpycJsW.js.pagespeed.jc.BmA8OO-PQE.js"></script><script>eval(mod_pagespeed_buM7emyVzW);</script>
+<script>eval(mod_pagespeed_PbiupzqS8C);</script>
+<script type='text/javascript'>//<![CDATA[
+var pollsL10n={"ajax_url":"http:\/\/www.gizmodo.fr\/wp-content\/plugins\/wp-polls\/wp-polls.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+//]]></script>
+<script type='text/javascript' src='http://www.gizmodo.fr/wp-content/plugins/wp-polls/polls-js.js,qver=2.50.pagespeed.jm.sWdgM_bYeu.js'></script>
+<script type="text/javascript">var _xfbcq=_xfbcq||[];(function(){var embed={url:'http://www.gizmodo.fr/',embed_type:'toolbar',mode:'top',lang:'fr',origin:'ZGlyZWN0',linkid:"sf-extensionfactory-link-391255664183",hide_on_unsupported:true}
+_xfbcq.push(embed);})();(function(){var efs=document.createElement('script');efs.type='text/javascript';efs.async=true;efs.src='http://builder.extensionfactory.com/embed/v1/minisite.js'
+var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(efs,s);})();</script>
+</body>
+</html>
