@@ -1,5 +1,7 @@
 Crawl Curio Cabinet
 ===================
+This is a repository of real world test cases that we've observed on the web.
+
 The web is a messy place. So messy. Really. It's... just... wow.
 
 It's been getting harder to keep track of the odd behaviors we've encountered
@@ -10,6 +12,12 @@ In some cases, we've been able to trim down the example to the smallest
 failing component. In some cases, we've stripped out pieces that may be
 sensitive that aren't crucial in recreating the issue. At their core, however,
 these are from the wild.
+
+![Status: Incubating](https://img.shields.io/badge/status-incubating-blue.svg?style=flat)
+![Team: Big Data](https://img.shields.io/badge/team-big_data-green.svg?style=flat)
+![Scope: External](https://img.shields.io/badge/scope-external-green.svg?style=flat)
+![Open Source: Yes](https://img.shields.io/badge/open_source-MIT-green.svg?style=flat)
+![Critical: No](https://img.shields.io/badge/critical-no-lightgrey.svg?style=flat)
 
 Serving
 =======
